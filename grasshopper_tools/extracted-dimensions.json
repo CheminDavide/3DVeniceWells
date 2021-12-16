@@ -1,0 +1,2952 @@
+[
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "46.722084", 
+    "radius-top": "47.020114", 
+    "top-z": "21.139262"
+  }, 
+  {
+    "base-z": "21.139262", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "48.272953", 
+    "radius-top": "48.272953", 
+    "top-z": "24.705036"
+  }, 
+  {
+    "base-z": "24.705036", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "47.020114", 
+    "radius-top": "47.020114", 
+    "top-z": "31.547467"
+  }, 
+  {
+    "base-z": "31.547467", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "48.56207", 
+    "radius-top": "48.658442", 
+    "top-z": "36.36608"
+  }, 
+  {
+    "base-z": "36.36608", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "47.501975", 
+    "radius-top": "47.501975", 
+    "top-z": "51.936947"
+  }, 
+  {
+    "base-z": "51.936947", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "48.985144", 
+    "radius-top": "48.985144", 
+    "top-z": "57.16707"
+  }, 
+  {
+    "base-z": "57.16707", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "47.970344", 
+    "radius-top": "48.204529", 
+    "top-z": "66.534454"
+  }, 
+  {
+    "base-z": "66.534454", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "49.921882", 
+    "radius-top": "47.983836", 
+    "top-z": "70"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "49.918779", 
+    "radius-top": "50.121465", 
+    "top-z": "15.155578"
+  }, 
+  {
+    "base-z": "15.155578", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.08278", 
+    "radius-top": "55.155743", 
+    "top-z": "25.151168"
+  }, 
+  {
+    "base-z": "25.151168", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "52.018439", 
+    "radius-top": "52.127431", 
+    "top-z": "45.069394"
+  }, 
+  {
+    "base-z": "45.069394", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "57.081539", 
+    "radius-top": "62.144628", 
+    "top-z": "55.164433"
+  }, 
+  {
+    "base-z": "55.164433", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "53.915582", 
+    "radius-top": "53.986575", 
+    "top-z": "70"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "66.32066", 
+    "radius-top": "66.589942", 
+    "top-z": "20.135267"
+  }, 
+  {
+    "base-z": "20.135267", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "73.181404", 
+    "radius-top": "73.278341", 
+    "top-z": "33.415122"
+  }, 
+  {
+    "base-z": "33.415122", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "69.110208", 
+    "radius-top": "69.255012", 
+    "top-z": "59.877906"
+  }, 
+  {
+    "base-z": "59.877906", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "75.836898", 
+    "radius-top": "82.563573", 
+    "top-z": "73.289886"
+  }, 
+  {
+    "base-z": "73.289886", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "71.630698", 
+    "radius-top": "71.725017", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "66.32066", 
+    "radius-top": "66.589942", 
+    "top-z": "20.135267"
+  }, 
+  {
+    "base-z": "20.135267", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "73.181404", 
+    "radius-top": "73.278341", 
+    "top-z": "33.415122"
+  }, 
+  {
+    "base-z": "33.415122", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "69.110208", 
+    "radius-top": "69.255012", 
+    "top-z": "59.877906"
+  }, 
+  {
+    "base-z": "59.877906", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "75.836898", 
+    "radius-top": "82.563573", 
+    "top-z": "73.289886"
+  }, 
+  {
+    "base-z": "73.289886", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "71.630698", 
+    "radius-top": "71.725017", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "71.265022", 
+    "radius-top": "71.534305", 
+    "top-z": "20.135267"
+  }, 
+  {
+    "base-z": "20.135267", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "78.125767", 
+    "radius-top": "78.222703", 
+    "top-z": "33.415122"
+  }, 
+  {
+    "base-z": "33.415122", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "74.054571", 
+    "radius-top": "74.199375", 
+    "top-z": "59.877906"
+  }, 
+  {
+    "base-z": "59.877906", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "80.78126", 
+    "radius-top": "87.507935", 
+    "top-z": "73.289886"
+  }, 
+  {
+    "base-z": "73.289886", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "76.57506", 
+    "radius-top": "76.66938", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "133.403878", 
+    "radius-top": "133.403878", 
+    "top-z": "5.26415"
+  }, 
+  {
+    "base-z": "5.26415", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "136.913315", 
+    "radius-top": "137.351995", 
+    "top-z": "9.650936"
+  }, 
+  {
+    "base-z": "9.650936", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.965199", 
+    "radius-top": "63.215228", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "9.650936", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.965199", 
+    "radius-top": "63.215228", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "9.650936", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.965199", 
+    "radius-top": "63.215228", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "2168.184418", 
+    "radius-top": "2211.10414", 
+    "top-z": "92.992645"
+  }, 
+  {
+    "base-z": "92.992645", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "2211.10414", 
+    "radius-top": "1910.666419", 
+    "top-z": "128.759081"
+  }, 
+  {
+    "base-z": "128.759081", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "1910.666419", 
+    "radius-top": "1975.046003", 
+    "top-z": "257.51808"
+  }, 
+  {
+    "base-z": "257.51808", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "1967.892716", 
+    "radius-top": "1567.308974", 
+    "top-z": "329.050783"
+  }, 
+  {
+    "base-z": "329.050783", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "1567.308974", 
+    "radius-top": "1638.841845", 
+    "top-z": "472.116357"
+  }, 
+  {
+    "base-z": "472.116357", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "1645.995132", 
+    "radius-top": "2168.184501", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "472.116357", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "2168.184418", 
+    "radius-top": "2168.184501", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": null, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": null, 
+    "radius-top": null, 
+    "top-z": null
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "130.594638", 
+    "radius-top": "129.721397", 
+    "top-z": "8.732407"
+  }, 
+  {
+    "base-z": "8.732407", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.777731", 
+    "radius-top": "133.214351", 
+    "top-z": "11.788741"
+  }, 
+  {
+    "base-z": "11.788741", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "108.327008", 
+    "radius-top": "107.453767", 
+    "top-z": "21.831004"
+  }, 
+  {
+    "base-z": "21.831004", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "110.946732", 
+    "radius-top": "110.946732", 
+    "top-z": "24.887348"
+  }, 
+  {
+    "base-z": "24.887348", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "83.439666", 
+    "radius-top": "82.566425", 
+    "top-z": "34.05637"
+  }, 
+  {
+    "base-z": "34.05637", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "87.369241", 
+    "radius-top": "87.805861", 
+    "top-z": "37.985945"
+  }, 
+  {
+    "base-z": "37.985945", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "59.425554", 
+    "radius-top": "59.425554", 
+    "top-z": "44.535254"
+  }, 
+  {
+    "base-z": "44.535254", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.059358", 
+    "radius-top": "53.749497", 
+    "top-z": "49.774691"
+  }, 
+  {
+    "base-z": "49.774691", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "62.045277", 
+    "top-z": "84.267676"
+  }, 
+  {
+    "base-z": "84.267676", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "63.355139", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "130.594638", 
+    "radius-top": "129.721397", 
+    "top-z": "8.732407"
+  }, 
+  {
+    "base-z": "8.732407", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.777731", 
+    "radius-top": "133.214351", 
+    "top-z": "11.788741"
+  }, 
+  {
+    "base-z": "11.788741", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "108.327008", 
+    "radius-top": "107.453767", 
+    "top-z": "21.831004"
+  }, 
+  {
+    "base-z": "21.831004", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "110.946732", 
+    "radius-top": "110.946732", 
+    "top-z": "24.887348"
+  }, 
+  {
+    "base-z": "24.887348", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "83.439666", 
+    "radius-top": "82.566425", 
+    "top-z": "34.05637"
+  }, 
+  {
+    "base-z": "34.05637", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "87.369241", 
+    "radius-top": "87.805861", 
+    "top-z": "37.985945"
+  }, 
+  {
+    "base-z": "37.985945", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "59.425554", 
+    "radius-top": "59.425554", 
+    "top-z": "44.535254"
+  }, 
+  {
+    "base-z": "44.535254", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.059358", 
+    "radius-top": "53.749497", 
+    "top-z": "49.774691"
+  }, 
+  {
+    "base-z": "49.774691", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "62.045277", 
+    "top-z": "84.267676"
+  }, 
+  {
+    "base-z": "84.267676", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "63.355139", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "130.594638", 
+    "radius-top": "130.594638", 
+    "top-z": "8.732407"
+  }, 
+  {
+    "base-z": "8.732407", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.777731", 
+    "radius-top": "132.777731", 
+    "top-z": "11.788741"
+  }, 
+  {
+    "base-z": "11.788741", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "108.327008", 
+    "radius-top": "108.327008", 
+    "top-z": "21.831004"
+  }, 
+  {
+    "base-z": "21.831004", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "110.946732", 
+    "radius-top": "110.946732", 
+    "top-z": "24.887348"
+  }, 
+  {
+    "base-z": "24.887348", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "83.439666", 
+    "radius-top": "83.439666", 
+    "top-z": "34.05637"
+  }, 
+  {
+    "base-z": "34.05637", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "87.369241", 
+    "radius-top": "87.369241", 
+    "top-z": "37.985945"
+  }, 
+  {
+    "base-z": "37.985945", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "59.425554", 
+    "radius-top": "59.425554", 
+    "top-z": "44.535254"
+  }, 
+  {
+    "base-z": "44.535254", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.059358", 
+    "radius-top": "55.059358", 
+    "top-z": "49.774691"
+  }, 
+  {
+    "base-z": "49.774691", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "84.267676"
+  }, 
+  {
+    "base-z": "84.267676", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "130.594638", 
+    "radius-top": "130.594638", 
+    "top-z": "8.732407"
+  }, 
+  {
+    "base-z": "8.732407", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.777731", 
+    "radius-top": "132.777731", 
+    "top-z": "11.788741"
+  }, 
+  {
+    "base-z": "11.788741", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "108.327008", 
+    "radius-top": "108.327008", 
+    "top-z": "21.831004"
+  }, 
+  {
+    "base-z": "21.831004", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "110.946732", 
+    "radius-top": "110.946732", 
+    "top-z": "24.887348"
+  }, 
+  {
+    "base-z": "24.887348", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "83.439666", 
+    "radius-top": "83.439666", 
+    "top-z": "34.05637"
+  }, 
+  {
+    "base-z": "34.05637", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "87.369241", 
+    "radius-top": "87.369241", 
+    "top-z": "37.985945"
+  }, 
+  {
+    "base-z": "37.985945", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "59.425554", 
+    "radius-top": "59.425554", 
+    "top-z": "44.535254"
+  }, 
+  {
+    "base-z": "44.535254", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.059358", 
+    "radius-top": "55.059358", 
+    "top-z": "49.774691"
+  }, 
+  {
+    "base-z": "49.774691", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "84.267676"
+  }, 
+  {
+    "base-z": "84.267676", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "130.594638", 
+    "radius-top": "130.594638", 
+    "top-z": "8.732407"
+  }, 
+  {
+    "base-z": "8.732407", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.777731", 
+    "radius-top": "132.777731", 
+    "top-z": "11.788741"
+  }, 
+  {
+    "base-z": "11.788741", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "108.327008", 
+    "radius-top": "108.327008", 
+    "top-z": "21.831004"
+  }, 
+  {
+    "base-z": "21.831004", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "110.946732", 
+    "radius-top": "110.946732", 
+    "top-z": "24.887348"
+  }, 
+  {
+    "base-z": "24.887348", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "83.439666", 
+    "radius-top": "83.439666", 
+    "top-z": "34.05637"
+  }, 
+  {
+    "base-z": "34.05637", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "87.369241", 
+    "radius-top": "87.369241", 
+    "top-z": "37.985945"
+  }, 
+  {
+    "base-z": "37.985945", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "59.425554", 
+    "radius-top": "59.425554", 
+    "top-z": "44.535254"
+  }, 
+  {
+    "base-z": "44.535254", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.059358", 
+    "radius-top": "55.059358", 
+    "top-z": "49.774691"
+  }, 
+  {
+    "base-z": "49.774691", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "84.267676"
+  }, 
+  {
+    "base-z": "84.267676", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": "0", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "130.594638", 
+    "radius-top": "130.594638", 
+    "top-z": "8.732407"
+  }, 
+  {
+    "base-z": "8.732407", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.777731", 
+    "radius-top": "132.777731", 
+    "top-z": "11.788741"
+  }, 
+  {
+    "base-z": "11.788741", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "108.327008", 
+    "radius-top": "108.327008", 
+    "top-z": "21.831004"
+  }, 
+  {
+    "base-z": "21.831004", 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "110.946732", 
+    "radius-top": "110.946732", 
+    "top-z": "24.887348"
+  }, 
+  {
+    "base-z": "24.887348", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "83.439666", 
+    "radius-top": "83.439666", 
+    "top-z": "34.05637"
+  }, 
+  {
+    "base-z": "34.05637", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "87.369241", 
+    "radius-top": "87.369241", 
+    "top-z": "37.985945"
+  }, 
+  {
+    "base-z": "37.985945", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "59.425554", 
+    "radius-top": "59.425554", 
+    "top-z": "44.535254"
+  }, 
+  {
+    "base-z": "44.535254", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.059358", 
+    "radius-top": "55.059358", 
+    "top-z": "49.774691"
+  }, 
+  {
+    "base-z": "49.774691", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "84.267676"
+  }, 
+  {
+    "base-z": "84.267676", 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "130.594638", 
+    "radius-top": "130.594638", 
+    "top-z": "8.732407"
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.777731", 
+    "radius-top": "132.777731", 
+    "top-z": "11.788741"
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "108.327008", 
+    "radius-top": "108.327008", 
+    "top-z": "21.831004"
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "110.946732", 
+    "radius-top": "110.946732", 
+    "top-z": "24.887348"
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "83.439666", 
+    "radius-top": "83.439666", 
+    "top-z": "34.05637"
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "87.369241", 
+    "radius-top": "87.369241", 
+    "top-z": "37.985945"
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "59.425554", 
+    "radius-top": "59.425554", 
+    "top-z": "44.535254"
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.059358", 
+    "radius-top": "55.059358", 
+    "top-z": "49.774691"
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "84.267676"
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": "93"
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "130.594638", 
+    "radius-top": "130.594638", 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "132.777731", 
+    "radius-top": "132.777731", 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "108.327008", 
+    "radius-top": "108.327008", 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "110.946732", 
+    "radius-top": "110.946732", 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "83.439666", 
+    "radius-top": "83.439666", 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "87.369241", 
+    "radius-top": "87.369241", 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "59.425554", 
+    "radius-top": "59.425554", 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "55.059358", 
+    "radius-top": "55.059358", 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": "54.186117", 
+    "radius-top": "54.186117", 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 131, 
+    "radius-top": "130.594638", 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 133, 
+    "radius-top": "132.777731", 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 108, 
+    "radius-top": "108.327008", 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 111, 
+    "radius-top": "110.946732", 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 83, 
+    "radius-top": "83.439666", 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 87, 
+    "radius-top": "87.369241", 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 59, 
+    "radius-top": "59.425554", 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 55, 
+    "radius-top": "55.059358", 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 54, 
+    "radius-top": "54.186117", 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 54, 
+    "radius-top": "54.186117", 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 131, 
+    "radius-top": 131, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 133, 
+    "radius-top": 133, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 108, 
+    "radius-top": 108, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 111, 
+    "radius-top": 111, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 83, 
+    "radius-top": 83, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 87, 
+    "radius-top": 87, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 59, 
+    "radius-top": 59, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 55, 
+    "radius-top": 55, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": "150", 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 131, 
+    "radius-top": 131, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 133, 
+    "radius-top": 133, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 108, 
+    "radius-top": 108, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 111, 
+    "radius-top": 111, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 83, 
+    "radius-top": 83, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 87, 
+    "radius-top": 87, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 59, 
+    "radius-top": 59, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 55, 
+    "radius-top": 55, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": "150", 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 131, 
+    "radius-top": 131, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 133, 
+    "radius-top": 133, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 108, 
+    "radius-top": 108, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 111, 
+    "radius-top": 111, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 83, 
+    "radius-top": 83, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 87, 
+    "radius-top": 87, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 59, 
+    "radius-top": 59, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 55, 
+    "radius-top": 55, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 131, 
+    "radius-top": 131, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 133, 
+    "radius-top": 133, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 108, 
+    "radius-top": 108, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 111, 
+    "radius-top": 111, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 83, 
+    "radius-top": 83, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 87, 
+    "radius-top": 87, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 59, 
+    "radius-top": 59, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 55, 
+    "radius-top": 55, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 131, 
+    "radius-top": 131, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 133, 
+    "radius-top": 133, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 108, 
+    "radius-top": 108, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 111, 
+    "radius-top": 111, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 83, 
+    "radius-top": 83, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 87, 
+    "radius-top": 87, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 59, 
+    "radius-top": 59, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 55, 
+    "radius-top": 55, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 131, 
+    "radius-top": 131, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 133, 
+    "radius-top": 133, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 108, 
+    "radius-top": 108, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 111, 
+    "radius-top": 111, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 83, 
+    "radius-top": 83, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 87, 
+    "radius-top": 87, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 59, 
+    "radius-top": 59, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 55, 
+    "radius-top": 55, 
+    "top-z": 24
+  }, 
+  {
+    "base-z": 24, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 39
+  }, 
+  {
+    "base-z": 39, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 44
+  }, 
+  {
+    "base-z": 44, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 85
+  }, 
+  {
+    "base-z": 85, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 54, 
+    "radius-top": 54, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -50, 
+    "radius-top": -50, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -50, 
+    "radius-top": -50, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -47, 
+    "radius-top": -47, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -47, 
+    "radius-top": -47, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -37, 
+    "radius-top": -37, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -37, 
+    "radius-top": -37, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -34, 
+    "radius-top": -34, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -34, 
+    "radius-top": -34, 
+    "top-z": 24
+  }, 
+  {
+    "base-z": 24, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -25, 
+    "radius-top": -25, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -25, 
+    "radius-top": -25, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -21, 
+    "radius-top": -21, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -20, 
+    "radius-top": -20, 
+    "top-z": 39
+  }, 
+  {
+    "base-z": 39, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -14, 
+    "radius-top": -14, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -15, 
+    "radius-top": -15, 
+    "top-z": 44
+  }, 
+  {
+    "base-z": 44, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": -9, 
+    "radius-top": -9, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 26, 
+    "radius-top": 26, 
+    "top-z": 85
+  }, 
+  {
+    "base-z": 85, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 25, 
+    "radius-top": 25, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 150, 
+    "polygonal-top": 150, 
+    "radius-base": 25, 
+    "radius-top": 25, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 26, 
+    "polygonal-top": 26, 
+    "radius-base": -50, 
+    "radius-top": -50, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -50, 
+    "radius-top": -50, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -47, 
+    "radius-top": -47, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -47, 
+    "radius-top": -47, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -37, 
+    "radius-top": -37, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -37, 
+    "radius-top": -37, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -34, 
+    "radius-top": -34, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -34, 
+    "radius-top": -34, 
+    "top-z": 24
+  }, 
+  {
+    "base-z": 24, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -25, 
+    "radius-top": -25, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -25, 
+    "radius-top": -25, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -21, 
+    "radius-top": -21, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -20, 
+    "radius-top": -20, 
+    "top-z": 39
+  }, 
+  {
+    "base-z": 39, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -14, 
+    "radius-top": -14, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -15, 
+    "radius-top": -15, 
+    "top-z": 44
+  }, 
+  {
+    "base-z": 44, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -9, 
+    "radius-top": -9, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": 26, 
+    "radius-top": 26, 
+    "top-z": 85
+  }, 
+  {
+    "base-z": 85, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": 25, 
+    "radius-top": 25, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": 25, 
+    "radius-top": 25, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 26, 
+    "polygonal-top": 26, 
+    "radius-base": -50, 
+    "radius-top": -50, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 27, 
+    "polygonal-top": 27, 
+    "radius-base": -50, 
+    "radius-top": -50, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 27, 
+    "polygonal-top": 27, 
+    "radius-base": -47, 
+    "radius-top": -47, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 24, 
+    "polygonal-top": 24, 
+    "radius-base": -47, 
+    "radius-top": -47, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 24, 
+    "polygonal-top": 24, 
+    "radius-base": -37, 
+    "radius-top": -37, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 25, 
+    "polygonal-top": 25, 
+    "radius-base": -37, 
+    "radius-top": -37, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 25, 
+    "polygonal-top": 25, 
+    "radius-base": -34, 
+    "radius-top": -34, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 22, 
+    "polygonal-top": 22, 
+    "radius-base": -34, 
+    "radius-top": -34, 
+    "top-z": 24
+  }, 
+  {
+    "base-z": 24, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 22, 
+    "polygonal-top": 22, 
+    "radius-base": -25, 
+    "radius-top": -25, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 22, 
+    "polygonal-top": 22, 
+    "radius-base": -25, 
+    "radius-top": -25, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 22, 
+    "polygonal-top": 22, 
+    "radius-base": -21, 
+    "radius-top": -21, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -20, 
+    "radius-top": -20, 
+    "top-z": 39
+  }, 
+  {
+    "base-z": 39, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -14, 
+    "radius-top": -14, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": -15, 
+    "radius-top": -15, 
+    "top-z": 44
+  }, 
+  {
+    "base-z": 44, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": -9, 
+    "radius-top": -9, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": 26, 
+    "radius-top": 26, 
+    "top-z": 85
+  }, 
+  {
+    "base-z": 85, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": 25, 
+    "radius-top": 25, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": 25, 
+    "radius-top": 25, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 26, 
+    "polygonal-top": 26, 
+    "radius-base": -38, 
+    "radius-top": -38, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 27, 
+    "polygonal-top": 27, 
+    "radius-base": -38, 
+    "radius-top": -38, 
+    "top-z": 9
+  }, 
+  {
+    "base-z": 9, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 27, 
+    "polygonal-top": 27, 
+    "radius-base": -35, 
+    "radius-top": -35, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 24, 
+    "polygonal-top": 24, 
+    "radius-base": -35, 
+    "radius-top": -35, 
+    "top-z": 12
+  }, 
+  {
+    "base-z": 12, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 24, 
+    "polygonal-top": 24, 
+    "radius-base": -25, 
+    "radius-top": -25, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 25, 
+    "polygonal-top": 25, 
+    "radius-base": -25, 
+    "radius-top": -25, 
+    "top-z": 22
+  }, 
+  {
+    "base-z": 22, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 25, 
+    "polygonal-top": 25, 
+    "radius-base": -22, 
+    "radius-top": -22, 
+    "top-z": 25
+  }, 
+  {
+    "base-z": 25, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 22, 
+    "polygonal-top": 22, 
+    "radius-base": -22, 
+    "radius-top": -22, 
+    "top-z": 24
+  }, 
+  {
+    "base-z": 24, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 22, 
+    "polygonal-top": 22, 
+    "radius-base": -13, 
+    "radius-top": -13, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 22, 
+    "polygonal-top": 22, 
+    "radius-base": -13, 
+    "radius-top": -13, 
+    "top-z": 34
+  }, 
+  {
+    "base-z": 34, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 22, 
+    "polygonal-top": 22, 
+    "radius-base": -9, 
+    "radius-top": -9, 
+    "top-z": 38
+  }, 
+  {
+    "base-z": 38, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -8, 
+    "radius-top": -8, 
+    "top-z": 39
+  }, 
+  {
+    "base-z": 39, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": -2, 
+    "radius-top": -2, 
+    "top-z": 45
+  }, 
+  {
+    "base-z": 45, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": -3, 
+    "radius-top": -3, 
+    "top-z": 44
+  }, 
+  {
+    "base-z": 44, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": 3, 
+    "radius-top": 3, 
+    "top-z": 50
+  }, 
+  {
+    "base-z": 50, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": 38, 
+    "radius-top": 38, 
+    "top-z": 85
+  }, 
+  {
+    "base-z": 85, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": 37, 
+    "radius-top": 37, 
+    "top-z": 84
+  }, 
+  {
+    "base-z": 84, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 20, 
+    "polygonal-top": 20, 
+    "radius-base": 37, 
+    "radius-top": 37, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 431, 
+    "radius-top": 431, 
+    "top-z": 707
+  }, 
+  {
+    "base-z": 707, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 431, 
+    "radius-top": 431, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 707, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 431, 
+    "radius-top": 431, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 707, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 431, 
+    "radius-top": 431, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 707, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 431, 
+    "radius-top": 431, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 140, 
+    "radius-top": 140, 
+    "top-z": 137
+  }, 
+  {
+    "base-z": 137, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 140, 
+    "radius-top": 140, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 137, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 140, 
+    "radius-top": 140, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 137, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 140, 
+    "radius-top": 140, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 137, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": null, 
+    "polygonal-top": null, 
+    "radius-base": 140, 
+    "radius-top": 140, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 0, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": 66, 
+    "radius-top": 66, 
+    "top-z": 68
+  }, 
+  {
+    "base-z": 68, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": 66, 
+    "radius-top": 66, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 68, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": 66, 
+    "radius-top": 66, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 68, 
+    "moulding-scale": 1, 
+    "moulding-type": "ovolo", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": 66, 
+    "radius-top": 66, 
+    "top-z": 93
+  }, 
+  {
+    "base-z": 68, 
+    "moulding-scale": 1, 
+    "moulding-type": "listello", 
+    "polygonal-base": 19, 
+    "polygonal-top": 19, 
+    "radius-base": 66, 
+    "radius-top": 66, 
+    "top-z": 93
+  }
+]
