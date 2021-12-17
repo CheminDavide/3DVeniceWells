@@ -1,3 +1,112 @@
 [
-  
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 116,
+        "radius-top": 116,
+        "z-base": 0,
+        "z-top": 8
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "toro",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 118,
+        "radius-top": 118,
+        "z-base": 8,
+        "z-top": 11
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 96,
+        "radius-top": 96,
+        "z-base": 11,
+        "z-top": 19
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "toro",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 96,
+        "radius-top": 96,
+        "z-base": 19,
+        "z-top": 22
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 76,
+        "radius-top": 76,
+        "z-base": 22,
+        "z-top": 30
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "toro",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 77,
+        "radius-top": 77,
+        "z-base": 30,
+        "z-top": 33
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 50,
+        "radius-top": 50,
+        "z-base": 33,
+        "z-top": 37
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "gola_f",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 50,
+        "radius-top": 50,
+        "z-base": 37,
+        "z-top": 40
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 45,
+        "radius-top": 45,
+        "z-base": 40,
+        "z-top": 73
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "gola_rev",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 49,
+        "radius-top": 49,
+        "z-base": 73,
+        "z-top": 77
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "toro",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 53,
+        "radius-top": 53,
+        "z-base": 77,
+        "z-top": 80
+    }
 ]
