@@ -654,22 +654,22 @@
         "id": "SM723",
         "index": 26,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Campo S. Maurizio",
         "coordinates": [
             12.33048053326862,
             45.4330313587031
         ],
-        "century": "",
+        "century": "1521",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
-            "diameter": 0,
+            "height": 87,
+            "diameter": 220,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "poor",
         "pictures": [
             "file_Page_049.jpg"
         ],
@@ -680,24 +680,24 @@
         "id": "SM510",
         "index": 27,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Corte de le muneghe",
         "coordinates": [
             12.33048434075919,
             45.432131783747266
         ],
-        "century": "",
+        "century": "XIV-XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
-            "diameter": 0,
+            "height": 85,
+            "diameter": 96,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "bad",
         "pictures": [
-            "SM510_pic1.jpg"
+            "file_Page_050.jpg"
         ],
         "render": "SM510_rend.jpg",
         "model": "SM510_model.fbx"
@@ -706,24 +706,24 @@
         "id": "SM484",
         "index": 28,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Corte del tagiapiera o del pozzetto",
         "coordinates": [
             12.32933853525656,
             45.43229231236472
         ],
-        "century": "",
+        "century": "XIX",
         "materials": [
-            ""
+            "Marmo rosso di Verona"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 70,
             "diameter": 0,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "poor",
         "pictures": [
-            "SM484_pic1.jpg"
+            "file_Page_050.jpg"
         ],
         "render": "SM484_rend.jpg",
         "model": "SM484_model.fbx"
@@ -732,24 +732,24 @@
         "id": "SM511",
         "index": 29,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Campo S. Stefano, verso la Chiesa",
         "coordinates": [
             12.328129688104017,
             45.43353488090433
         ],
-        "century": "",
+        "century": "1724",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
-            "diameter": 0,
+            "height": 88,
+            "diameter": 186,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM511_pic1.jpg"
+            "file_Page_050.jpg"
         ],
         "render": "SM511_rend.jpg",
         "model": "SM511_model.fbx"
@@ -758,24 +758,24 @@
         "id": "SM512",
         "index": 30,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Campo S. Stefano, verso Ca' Morosini",
         "coordinates": [
             12.32863463324347,
             45.43421279039703
         ],
-        "century": "",
+        "century": "1724",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
-            "diameter": 0,
+            "height": 88,
+            "diameter": 185,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM512_pic1.jpg"
+            "file_Page_050.jpg"
         ],
         "render": "SM512_rend.jpg",
         "model": "SM512_model.fbx"
@@ -784,24 +784,24 @@
         "id": "SM526",
         "index": 31,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Corte barbaro",
         "coordinates": [
             12.32790834283892,
             45.43361971100789
         ],
-        "century": "",
+        "century": "XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 94,
             "diameter": 0,
-            "side": 0
+            "side": 121
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM526_pic1.jpg"
+            "file_Page_050.jpg"
         ],
         "render": "SM526_rend.jpg",
         "model": "SM526_model.fbx"
@@ -810,24 +810,24 @@
         "id": "SM537",
         "index": 32,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Campo S. Vidal",
         "coordinates": [
             12.330857625751461,
             45.434516834017124
         ],
-        "century": "",
+        "century": "XVI",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 78,
             "diameter": 0,
-            "side": 0
+            "side": 90
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM537_pic1.jpg"
+            "file_Page_051.jpg"
         ],
         "render": "SM537_rend.jpg",
         "model": "SM537_model.fbx"
@@ -836,24 +836,24 @@
         "id": "SM640",
         "index": 33,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Salizada malipiero",
         "coordinates": [
             12.331686258874763,
             45.43348306822193
         ],
-        "century": "",
+        "century": "XIV",
         "materials": [
-            ""
+            "Marmo di Verona"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 80,
             "diameter": 0,
-            "side": 0
+            "side": 100
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "very bad",
         "pictures": [
-            "SM640_pic1.jpg"
+            "file_Page_051.jpg"
         ],
         "render": "SM640_rend.jpg",
         "model": "SM640_model.fbx"
@@ -862,24 +862,24 @@
         "id": "SM654",
         "index": 34,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Campo S. Samuel",
         "coordinates": [
             12.332203908479823,
             45.434352905882015
         ],
-        "century": "",
+        "century": "XVII",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
-            "diameter": 0,
+            "height": 84,
+            "diameter": 60,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "very bad",
         "pictures": [
-            "SM654_pic1.jpg"
+            "file_Page_051.jpg"
         ],
         "render": "SM654_rend.jpg",
         "model": "SM654_model.fbx"
@@ -888,24 +888,24 @@
         "id": "SM652",
         "index": 35,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Corte Lezze",
         "coordinates": [
             12.332014636737265,
             45.4344856653629
         ],
-        "century": "",
+        "century": "1839",
         "materials": [
-            ""
+            "Marmo bianco di Verona"
         ],
         "dimensions": {
-            "height": 0,
-            "diameter": 0,
+            "height": 87,
+            "diameter": 98,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM652_pic1.jpg"
+            "file_Page_051.jpg"
         ],
         "render": "SM652_rend.jpg",
         "model": "SM652_model.fbx"
@@ -914,24 +914,24 @@
         "id": "SM717",
         "index": 36,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Corte de le pizzocare",
         "coordinates": [
             12.332949544519213,
             45.43488978105039
         ],
-        "century": "",
+        "century": "XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 77,
             "diameter": 0,
-            "side": 0
+            "side": 47
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM717_pic1.jpg"
+            "file_Page_052.jpg"
         ],
         "render": "SM717_rend.jpg",
         "model": "SM717_model.fbx"
@@ -940,24 +940,24 @@
         "id": "SM744",
         "index": 37,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Campo S. Anzolo",
         "coordinates": [
             12.332165857960875,
             45.434970478348106
         ],
-        "century": "",
+        "century": "XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
-            "diameter": 0,
+            "height": 93,
+            "diameter": 200,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM744_pic1.jpg"
+            "file_Page_052.jpg"
         ],
         "render": "SM744_rend.jpg",
         "model": "SM744_model.fbx"
@@ -966,24 +966,24 @@
         "id": "SM796",
         "index": 38,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Stefano",
+        "location": "Corte de l'Alboro",
         "coordinates": [
             12.330625717662352,
             45.43509648888268
         ],
-        "century": "",
+        "century": "XIV",
         "materials": [
-            ""
+            "Marmo bianco di Verona"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 88,
             "diameter": 0,
-            "side": 0
+            "side": 100
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM796_pic1.jpg"
+            "file_Page_052.jpg"
         ],
         "render": "SM796_rend.jpg",
         "model": "SM796_model.fbx"
@@ -992,24 +992,24 @@
         "id": "SM764",
         "index": 39,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Corte dei Santi",
         "coordinates": [
             12.331352857184058,
             45.435401531982826
         ],
-        "century": "",
+        "century": "XIV-XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 80,
             "diameter": 0,
-            "side": 0
+            "side": 40
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "bad",
         "pictures": [
-            "SM764_pic1.jpg"
+            "file_Page_052.jpg"
         ],
         "render": "SM764_rend.jpg",
         "model": "SM764_model.fbx"
@@ -1018,24 +1018,24 @@
         "id": "SM774",
         "index": 40,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Corte Barbarigo",
         "coordinates": [
             12.332372415190989,
             45.43547037293148
         ],
-        "century": "",
+        "century": "XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
-            "diameter": 0,
+            "height": 81,
+            "diameter": 121,
             "side": 0
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM774_pic1.jpg"
+            "file_Page_052.jpg"
         ],
         "render": "SM774_rend.jpg",
         "model": "SM774_model.fbx"
@@ -1044,24 +1044,24 @@
         "id": "SM804",
         "index": 41,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Campiello Michiel",
         "coordinates": [
             12.332917383237199,
             45.435843157613114
         ],
-        "century": "",
+        "century": "1695",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 88,
             "diameter": 0,
-            "side": 0
+            "side": 35
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "good",
         "pictures": [
-            "SM804_pic1.jpg"
+            "file_Page_053.jpg"
         ],
         "render": "SM804_rend.jpg",
         "model": "SM804_model.fbx"
@@ -1070,24 +1070,24 @@
         "id": "SM823",
         "index": 42,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Campo S. Beneto",
         "coordinates": [
             12.333155739947397,
             45.43566870322178
         ],
-        "century": "",
+        "century": "XIV-XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 79,
             "diameter": 0,
-            "side": 0
+            "side": 95
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "poor",
         "pictures": [
-            "SM823_pic1.jpg"
+            "file_Page_053.jpg"
         ],
         "render": "SM823_rend.jpg",
         "model": "SM823_model.fbx"
@@ -1096,24 +1096,24 @@
         "id": "SM835",
         "index": 43,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Corte S. Andrea",
         "coordinates": [
             12.33458633523065,
             45.43488301203325
         ],
-        "century": "",
+        "century": "XIV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 75,
             "diameter": 0,
-            "side": 0
+            "side": 33
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM835_pic1.jpg"
+            "file_Page_053.jpg"
         ],
         "render": "SM835_rend.jpg",
         "model": "SM835_model.fbx"
@@ -1122,24 +1122,24 @@
         "id": "SM832",
         "index": 44,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Corte contarina",
         "coordinates": [
             12.335054199014598,
             45.43499295076663
         ],
-        "century": "",
+        "century": "XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 90,
             "diameter": 0,
-            "side": 0
+            "side": 93
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "fair",
         "pictures": [
-            "SM832_pic1.jpg"
+            "file_Page_053.jpg"
         ],
         "render": "SM832_rend.jpg",
         "model": "SM832_model.fbx"
@@ -1148,24 +1148,24 @@
         "id": "SM913",
         "index": 45,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Corte contarini dal bovolo",
         "coordinates": [
             12.335519590508046,
             45.43542687336547
         ],
-        "century": "",
+        "century": "XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 82,
             "diameter": 0,
-            "side": 0
+            "side": 85
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "very bad",
         "pictures": [
-            "SM913_pic1.jpg"
+            "file_Page_054.jpg"
         ],
         "render": "SM913_rend.jpg",
         "model": "SM913_model.fbx"
@@ -1174,24 +1174,24 @@
         "id": "SM923",
         "index": 46,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Corte coppo",
         "coordinates": [
             12.334859140198644,
             45.4364195881128
         ],
-        "century": "",
+        "century": "XIV-XV",
         "materials": [
-            ""
+            "Marmo di Verona"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 62,
             "diameter": 0,
-            "side": 0
+            "side": 83
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "bad",
         "pictures": [
-            "SM923_pic1.jpg"
+            "file_Page_054.jpg"
         ],
         "render": "SM923_rend.jpg",
         "model": "SM923_model.fbx"
@@ -1200,24 +1200,24 @@
         "id": "SM936",
         "index": 47,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Corte del forno vechio",
         "coordinates": [
             12.336067189114512,
             45.43601573337104
         ],
-        "century": "",
+        "century": "XVI",
         "materials": [
-            ""
+            "Marmo bianco di Verona"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 85,
             "diameter": 0,
-            "side": 0
+            "side": 43
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "good",
         "pictures": [
-            "SM936_pic1.jpg"
+            "file_Page_054.jpg"
         ],
         "render": "SM936_rend.jpg",
         "model": "SM936_model.fbx"
@@ -1226,24 +1226,24 @@
         "id": "SM979",
         "index": 48,
         "sestriere": "S. Marco",
-        "parrocchia": "",
-        "location": "",
+        "parrocchia": "S. Luca",
+        "location": "Corte del teatro",
         "coordinates": [
             12.337294241868005,
             45.438195655376504
         ],
-        "century": "",
+        "century": "XV",
         "materials": [
-            ""
+            "Pietra d'Istria"
         ],
         "dimensions": {
-            "height": 0,
+            "height": 86,
             "diameter": 0,
-            "side": 0
+            "side": 110
         },
-        "preservation": "excellent, good, fair, poor, bad, very bad",
+        "preservation": "poor",
         "pictures": [
-            "SM979_pic1.jpg"
+            "file_Page_054.jpg"
         ],
         "render": "SM979_rend.jpg",
         "model": "SM979_model.fbx"
