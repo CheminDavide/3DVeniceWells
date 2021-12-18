@@ -1,0 +1,22 @@
+[
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 41,
+        "radius-top": 43,
+        "z-base": 0,
+        "z-top": 70
+    },
+    {
+        "moulding-scale": 0.65,
+        "moulding-type": "list_rounded",
+        "polygonal-base": 4,
+        "polygonal-top": 4,
+        "radius-base": 44,
+        "radius-top": 44,
+        "z-base": 34,
+        "z-top": 75
+    }
+]

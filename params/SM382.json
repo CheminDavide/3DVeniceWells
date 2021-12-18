@@ -1,0 +1,72 @@
+[
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 8,
+    "polygonal-top": 8,
+    "radius-base": 60,
+    "radius-top": 60,
+    "z-base": 0,
+    "z-top": 10
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "beak",
+    "polygonal-base": 8,
+    "polygonal-top": 8,
+    "radius-base": 59,
+    "radius-top": 59,
+    "z-base": 10,
+    "z-top": 14
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 8,
+    "polygonal-top": 150,
+    "radius-base": 32,
+    "radius-top": 31,
+    "z-base": 14,
+    "z-top": 26
+  },
+  {
+    "moulding-scale": 0.5,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 31,
+    "radius-top": 31,
+    "z-base": 26,
+    "z-top": 31
+  },
+  {
+    "moulding-scale": 0.2,
+    "moulding-type": "gola_rev",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 28,
+    "radius-top": 28,
+    "z-base": 31,
+    "z-top": 67
+  },
+  {
+    "moulding-scale": 0.8,
+    "moulding-type": "gola_rev_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 32,
+    "radius-top": 32,
+    "z-base": 67,
+    "z-top": 71
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 32,
+    "radius-top": 32,
+    "z-base": 71,
+    "z-top": 77
+  }
+]

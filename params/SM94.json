@@ -1,0 +1,102 @@
+[
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 96,
+    "radius-top": 96,
+    "z-base": 0,
+    "z-top": 16
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 74,
+    "radius-top": 74,
+    "z-base": 16,
+    "z-top": 31
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 46,
+    "radius-top": 46,
+    "z-base": 31,
+    "z-top": 38
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "ovolo_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 44,
+    "radius-top": 44,
+    "z-base": 38,
+    "z-top": 40
+  },
+  {
+    "moulding-scale": 0.5,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 44,
+    "radius-top": 44,
+    "z-base": 40,
+    "z-top": 42
+  },
+  {
+    "moulding-scale": 0.4,
+    "moulding-type": "gola_rev",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 42,
+    "radius-top": 42,
+    "z-base": 42,
+    "z-top": 59
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 48,
+    "radius-top": 48,
+    "z-base": 59,
+    "z-top": 63
+  },
+  {
+    "moulding-scale": 0.4,
+    "moulding-type": "gola_rev_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 42,
+    "radius-top": 42,
+    "z-base": 63,
+    "z-top": 80
+  },
+  {
+    "moulding-scale": 0.9,
+    "moulding-type": "gola_rev",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 42,
+    "radius-top": 42,
+    "z-base": 80,
+    "z-top": 84
+  },
+  {
+    "moulding-scale": 1.4,
+    "moulding-type": "ovolo_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 40,
+    "radius-top": 40,
+    "z-base": 84,
+    "z-top": 88
+  }
+]

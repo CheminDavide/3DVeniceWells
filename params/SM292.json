@@ -1,0 +1,42 @@
+[
+  {
+    "moulding-scale": 1,
+    "moulding-type": "list_rounded",
+    "polygonal-base": 4,
+    "polygonal-top": 4,
+    "radius-base": 45,
+    "radius-top": 45,
+    "z-base": 0,
+    "z-top": 17
+  },
+  {
+    "moulding-scale": 0.5,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 26,
+    "radius-top": 26,
+    "z-base": 17,
+    "z-top": 20
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 150,
+    "polygonal-top": 8,
+    "radius-base": 26,
+    "radius-top": 27.5,
+    "z-base": 20,
+    "z-top": 90
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "list_rounded",
+    "polygonal-base": 4,
+    "polygonal-top": 4,
+    "radius-base": 23,
+    "radius-top": 23,
+    "z-base": 70,
+    "z-top": 94
+  }
+]

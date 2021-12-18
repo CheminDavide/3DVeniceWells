@@ -64,8 +64,8 @@
         "moulding-type": "listello",
         "polygonal-base": 6,
         "polygonal-top": 6,
-        "radius-base": 50,
-        "radius-top": 50,
+        "radius-base": 51,
+        "radius-top": 51,
         "z-base": 33,
         "z-top": 37
     },
@@ -74,8 +74,8 @@
         "moulding-type": "gola_f",
         "polygonal-base": 6,
         "polygonal-top": 6,
-        "radius-base": 50,
-        "radius-top": 50,
+        "radius-base": 48,
+        "radius-top": 48,
         "z-base": 37,
         "z-top": 40
     },
@@ -84,8 +84,8 @@
         "moulding-type": "listello",
         "polygonal-base": 6,
         "polygonal-top": 6,
-        "radius-base": 45,
-        "radius-top": 45,
+        "radius-base": 48,
+        "radius-top": 48,
         "z-base": 40,
         "z-top": 73
     },
