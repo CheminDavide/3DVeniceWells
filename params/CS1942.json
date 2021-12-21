@@ -1,62 +1,62 @@
 [
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.5,
         "moulding-type": "list_rounded",
         "polygonal-base": 4,
         "polygonal-top": 4,
         "radius-base": 76,
         "radius-top": 76,
         "z-base": 0,
-        "z-top": 21
+        "z-top": 15
     },
     {
         "moulding-scale": 1,
         "moulding-type": "listello",
         "polygonal-base": 150,
         "polygonal-top": 150,
-        "radius-base": 31,
-        "radius-top": 31,
-        "z-base": 21,
-        "z-top": 24
+        "radius-base": 33.5,
+        "radius-top": 33.5,
+        "z-base": 15,
+        "z-top": 19
     },
     {
         "moulding-scale": 1,
         "moulding-type": "listello",
         "polygonal-base": 150,
         "polygonal-top": 150,
-        "radius-base": 31,
-        "radius-top": 31,
-        "z-base": 24,
-        "z-top": 54
+        "radius-base": 33,
+        "radius-top": 35,
+        "z-base": 19,
+        "z-top": 80
     },
     {
         "moulding-scale": 1,
         "moulding-type": "listello",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 40,
-        "radius-top": 40,
+        "radius-base": 50,
+        "radius-top": 50,
         "z-base": 54,
-        "z-top": 74
+        "z-top": 76
     },
     {
         "moulding-scale": 1,
         "moulding-type": "toro",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 44,
-        "radius-top": 44,
-        "z-base": 74,
-        "z-top": 78
+        "radius-base": 50,
+        "radius-top": 50,
+        "z-base": 76,
+        "z-top": 79
     },
     {
         "moulding-scale": 1,
-        "moulding-type": "beak",
+        "moulding-type": "beak_f",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 44,
-        "radius-top": 44,
-        "z-base": 78,
+        "radius-base": 46,
+        "radius-top": 46,
+        "z-base": 79,
         "z-top": 82
     }
 ]

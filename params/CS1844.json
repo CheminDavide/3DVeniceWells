@@ -5,18 +5,18 @@
         "polygonal-base": 150,
         "polygonal-top": 150,
         "radius-base": 48,
-        "radius-top": 48,
+        "radius-top": 52,
         "z-base": 0,
-        "z-top": 46
+        "z-top": 86
     },
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.5,
         "moulding-type": "list_rounded",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 68,
-        "radius-top": 68,
-        "z-base": 46,
+        "radius-base": 64,
+        "radius-top": 64,
+        "z-base": 50,
         "z-top": 92
     }
 ]

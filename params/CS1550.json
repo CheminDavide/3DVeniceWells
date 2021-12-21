@@ -4,29 +4,39 @@
         "moulding-type": "listello",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 49,
-        "radius-top": 49,
+        "radius-base": 52,
+        "radius-top": 52,
         "z-base": 0,
         "z-top": 10
     },
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.5,
         "moulding-type": "gola_f",
         "polygonal-base": 150,
         "polygonal-top": 150,
-        "radius-base": 37,
-        "radius-top": 37,
+        "radius-base": 32,
+        "radius-top": 32,
         "z-base": 10,
-        "z-top": 21
+        "z-top": 16
     },
     {
         "moulding-scale": 1,
         "moulding-type": "listello",
         "polygonal-base": 150,
-        "polygonal-top": 150,
+        "polygonal-top": 4,
         "radius-base": 32,
-        "radius-top": 32,
-        "z-base": 21,
+        "radius-top": 46,
+        "z-base": 16,
         "z-top": 70
+    },
+    {
+        "moulding-scale": 2.1,
+        "moulding-type": "ovolo_f",
+        "polygonal-base": 4,
+        "polygonal-top": 4,
+        "radius-base": 40,
+        "radius-top": 40,
+        "z-base": 70,
+        "z-top": 72
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.2,
         "moulding-type": "list_rounded",
         "polygonal-base": 150,
         "polygonal-top": 150,
@@ -15,12 +15,12 @@
         "polygonal-base": 150,
         "polygonal-top": 150,
         "radius-base": 36,
-        "radius-top": 36,
+        "radius-top": 40,
         "z-base": 15,
-        "z-top": 53
+        "z-top": 75
     },
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.2,
         "moulding-type": "list_rounded",
         "polygonal-base": 8,
         "polygonal-top": 8,

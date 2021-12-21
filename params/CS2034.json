@@ -14,8 +14,8 @@
         "moulding-type": "cavetto_f",
         "polygonal-base": 150,
         "polygonal-top": 150,
-        "radius-base": 37,
-        "radius-top": 37,
+        "radius-base": 38,
+        "radius-top": 38,
         "z-base": 14,
         "z-top": 16
     },
@@ -23,11 +23,11 @@
         "moulding-scale": 1,
         "moulding-type": "listello",
         "polygonal-base": 150,
-        "polygonal-top": 150,
-        "radius-base": 35,
-        "radius-top": 35,
+        "polygonal-top": 4,
+        "radius-base": 38,
+        "radius-top": 47,
         "z-base": 16,
-        "z-top": 64
+        "z-top": 72
     },
     {
         "moulding-scale": 1,
@@ -36,16 +36,16 @@
         "polygonal-top": 4,
         "radius-base": 47,
         "radius-top": 47,
-        "z-base": 64,
+        "z-base": 72,
         "z-top": 74
     },
     {
-        "moulding-scale": 1,
-        "moulding-type": "ovolo",
+        "moulding-scale": 0.5,
+        "moulding-type": "ovolo_f",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 53,
-        "radius-top": 53,
+        "radius-base": 48,
+        "radius-top": 48,
         "z-base": 74,
         "z-top": 80
     }

@@ -14,8 +14,8 @@
         "moulding-type": "cavetto_f",
         "polygonal-base": 150,
         "polygonal-top": 150,
-        "radius-base": 39,
-        "radius-top": 39,
+        "radius-base": 36,
+        "radius-top": 36,
         "z-base": 7,
         "z-top": 11
     },
@@ -25,17 +25,17 @@
         "polygonal-base": 150,
         "polygonal-top": 150,
         "radius-base": 36,
-        "radius-top": 36,
+        "radius-top": 40,
         "z-base": 11,
-        "z-top": 51
+        "z-top": 75
     },
     {
         "moulding-scale": 1,
         "moulding-type": "listello",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 51,
-        "radius-top": 51,
+        "radius-base": 57,
+        "radius-top": 57,
         "z-base": 51,
         "z-top": 70
     },
@@ -44,18 +44,18 @@
         "moulding-type": "toro",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 53,
-        "radius-top": 53,
+        "radius-base": 56,
+        "radius-top": 56,
         "z-base": 70,
         "z-top": 75
     },
     {
         "moulding-scale": 1,
-        "moulding-type": "beak",
+        "moulding-type": "beak_f",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 52,
-        "radius-top": 52,
+        "radius-base": 50,
+        "radius-top": 50,
         "z-base": 75,
         "z-top": 80
     }
