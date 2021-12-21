@@ -1,0 +1,32 @@
+[
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 48,
+        "radius-top": 48,
+        "z-base": 0,
+        "z-top": 60
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "cavetto",
+        "polygonal-base": 4,
+        "polygonal-top": 4,
+        "radius-base": 53,
+        "radius-top": 53,
+        "z-base": 60,
+        "z-top": 68
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "ovolo_f",
+        "polygonal-base": 4,
+        "polygonal-top": 4,
+        "radius-base": 58,
+        "radius-top": 58,
+        "z-base": 68,
+        "z-top": 74
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 4,
+        "polygonal-top": 4,
+        "radius-base": 63,
+        "radius-top": 63,
+        "z-base": 0,
+        "z-top": 27
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 150,
+        "polygonal-top": 150,
+        "radius-base": 33,
+        "radius-top": 33,
+        "z-base": 27,
+        "z-top": 62
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 4,
+        "polygonal-top": 4,
+        "radius-base": 46,
+        "radius-top": 46,
+        "z-base": 62,
+        "z-top": 88
+    }
+]

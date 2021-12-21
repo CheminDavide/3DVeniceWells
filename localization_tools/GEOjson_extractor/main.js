@@ -20,7 +20,8 @@ function initMap() {
   });
   map.data.addListener('click', function(event) {
     let id = event.feature.getProperty('ID');
-    let html = id;
+    let i_sub = event.feature.i;
+    let html = id + "<br/>" + i_sub;
     infowindow.setContent(html); // show the html variable in the infowindow
     infowindow.setPosition(event.latLng);
     infowindow.setOptions({

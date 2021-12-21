@@ -1,0 +1,92 @@
+[
+    {
+        "moulding-scale": 1,
+        "moulding-type": "list_rounded",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 126,
+        "radius-top": 126,
+        "z-base": 0,
+        "z-top": 3
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "list_rounded",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 124,
+        "radius-top": 124,
+        "z-base": 3,
+        "z-top": 9
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 91,
+        "radius-top": 91,
+        "z-base": 9,
+        "z-top": 15
+    },
+    {
+        "moulding-scale": 0.65,
+        "moulding-type": "ovolo_f",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 88,
+        "radius-top": 88,
+        "z-base": 15,
+        "z-top": 19
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "toro",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 87,
+        "radius-top": 87,
+        "z-base": 19,
+        "z-top": 22
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 87,
+        "radius-top": 87,
+        "z-base": 22,
+        "z-top": 76
+    },
+    {
+        "moulding-scale": 0.4,
+        "moulding-type": "cavetto",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 87,
+        "radius-top": 87,
+        "z-base": 76,
+        "z-top": 81
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "listello",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 90,
+        "radius-top": 90,
+        "z-base": 81,
+        "z-top": 84
+    },
+    {
+        "moulding-scale": 1,
+        "moulding-type": "toro",
+        "polygonal-base": 6,
+        "polygonal-top": 6,
+        "radius-base": 89,
+        "radius-top": 89,
+        "z-base": 84,
+        "z-top": 90
+    }
+]
