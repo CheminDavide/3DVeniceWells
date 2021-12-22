@@ -1248,1514 +1248,1512 @@
         "render": "SM979_rend.jpg",
         "model": "SM979_model.fbx"
     },
-    [
-        {
-            "id": "CS1672",
-            "index": 49,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Pietro del Castelo",
-            "location": "Campo de la Ruga o S. Lorenzo Giustiniani",
-            "coordinates": [
-                12.343141193122829,
-                45.434200932159975
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 83,
-                "diameter": 0,
-                "side": 105
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_064.jpg"
-            ],
-            "render": "1672_rend.jpg",
-            "model": "1672_model.fbx"
+    {
+        "id": "CS1672",
+        "index": 49,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Pietro del Castelo",
+        "location": "Campo de la Ruga o S. Lorenzo Giustiniani",
+        "coordinates": [
+            12.343141193122829,
+            45.434200932159975
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 83,
+            "diameter": 0,
+            "side": 105
         },
-        {
-            "id": "CS1645",
-            "index": 50,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Pietro del Castelo",
-            "location": "Corte de Ca' Bianco",
-            "coordinates": [
-                12.341977815858982,
-                45.434626948638055
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 74,
-                "diameter": 0,
-                "side": 100
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_064.jpg"
-            ],
-            "render": "1645_rend.jpg",
-            "model": "1645_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_064.jpg"
+        ],
+        "render": "1672_rend.jpg",
+        "model": "1672_model.fbx"
+    },
+    {
+        "id": "CS1645",
+        "index": 50,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Pietro del Castelo",
+        "location": "Corte de Ca' Bianco",
+        "coordinates": [
+            12.341977815858982,
+            45.434626948638055
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 74,
+            "diameter": 0,
+            "side": 100
         },
-        {
-            "id": "CS1694",
-            "index": 51,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Pietro del Castelo",
-            "location": "Corte de la Stella",
-            "coordinates": [
-                12.341459446918654,
-                45.43512432585159
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 92,
-                "diameter": 0,
-                "side": 105
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_064.jpg"
-            ],
-            "render": "1694_rend.jpg",
-            "model": "1694_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_064.jpg"
+        ],
+        "render": "1645_rend.jpg",
+        "model": "1645_model.fbx"
+    },
+    {
+        "id": "CS1694",
+        "index": 51,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Pietro del Castelo",
+        "location": "Corte de la Stella",
+        "coordinates": [
+            12.341459446918654,
+            45.43512432585159
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 92,
+            "diameter": 0,
+            "side": 105
         },
-        {
-            "id": "CS1766",
-            "index": 52,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Isepo",
-            "location": "Campo S. Isepo",
-            "coordinates": [
-                12.341317033899232,
-                45.435670879013834
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 90,
-                "diameter": 0,
-                "side": 108
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_065.jpg"
-            ],
-            "render": "1766_rend.jpg",
-            "model": "1766_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_064.jpg"
+        ],
+        "render": "1694_rend.jpg",
+        "model": "1694_model.fbx"
+    },
+    {
+        "id": "CS1766",
+        "index": 52,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Isepo",
+        "location": "Campo S. Isepo",
+        "coordinates": [
+            12.341317033899232,
+            45.435670879013834
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 90,
+            "diameter": 0,
+            "side": 108
         },
-        {
-            "id": "CS1802",
-            "index": 53,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Isepo",
-            "location": "Corte de Ca' Sarasina",
-            "coordinates": [
-                12.343322263773715,
-                45.43710397886487
-            ],
-            "century": "XIV",
-            "materials": [
-                "Marmo bianco di Verona"
-            ],
-            "dimensions": {
-                "height": 81,
-                "diameter": 103,
-                "side": 0
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_065.jpg"
-            ],
-            "render": "1802_rend.jpg",
-            "model": "1802_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_065.jpg"
+        ],
+        "render": "1766_rend.jpg",
+        "model": "1766_model.fbx"
+    },
+    {
+        "id": "CS1802",
+        "index": 53,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Isepo",
+        "location": "Corte de Ca' Sarasina",
+        "coordinates": [
+            12.343322263773715,
+            45.43710397886487
+        ],
+        "century": "XIV",
+        "materials": [
+            "Marmo bianco di Verona"
+        ],
+        "dimensions": {
+            "height": 81,
+            "diameter": 103,
+            "side": 0
         },
-        {
-            "id": "CS1844",
-            "index": 54,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco da Paula",
-            "location": "Corte de le Colone",
-            "coordinates": [
-                12.343625101731822,
-                45.43710958584388
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 92,
-                "diameter": 0,
-                "side": 118
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_065.jpg"
-            ],
-            "render": "1844_rend.jpg",
-            "model": "1844_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_065.jpg"
+        ],
+        "render": "1802_rend.jpg",
+        "model": "1802_model.fbx"
+    },
+    {
+        "id": "CS1844",
+        "index": 54,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco da Paula",
+        "location": "Corte de le Colone",
+        "coordinates": [
+            12.343625101731822,
+            45.43710958584388
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 92,
+            "diameter": 0,
+            "side": 118
         },
-        {
-            "id": "CS1888",
-            "index": 55,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco da Paula",
-            "location": "Corte Formenta",
-            "coordinates": [
-                12.342573027576712,
-                45.43517230120906
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 81,
-                "diameter": 99,
-                "side": 0
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_065.jpg"
-            ],
-            "render": "1888_rend.jpg",
-            "model": "1888_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_065.jpg"
+        ],
+        "render": "1844_rend.jpg",
+        "model": "1844_model.fbx"
+    },
+    {
+        "id": "CS1888",
+        "index": 55,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco da Paula",
+        "location": "Corte Formenta",
+        "coordinates": [
+            12.342573027576712,
+            45.43517230120906
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 81,
+            "diameter": 99,
+            "side": 0
         },
-        {
-            "id": "CS1941",
-            "index": 56,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco da Paula",
-            "location": "Corte Nova",
-            "coordinates": [
-                12.343094781006073,
-                45.434580912417225
-            ],
-            "century": "XIV",
-            "materials": [
-                "Marmo rosa di Verona"
-            ],
-            "dimensions": {
-                "height": 80,
-                "diameter": 0,
-                "side": 93
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_066.jpg"
-            ],
-            "render": "1941_rend.jpg",
-            "model": "1941_model.fbx"
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_065.jpg"
+        ],
+        "render": "1888_rend.jpg",
+        "model": "1888_model.fbx"
+    },
+    {
+        "id": "CS1941",
+        "index": 56,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco da Paula",
+        "location": "Corte Nova",
+        "coordinates": [
+            12.343094781006073,
+            45.434580912417225
+        ],
+        "century": "XIV",
+        "materials": [
+            "Marmo rosa di Verona"
+        ],
+        "dimensions": {
+            "height": 80,
+            "diameter": 0,
+            "side": 93
         },
-        {
-            "id": "CS1942",
-            "index": 57,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco da Paula",
-            "location": "Corte Nova",
-            "coordinates": [
-                12.342483914962786,
-                45.43442249295445
-            ],
-            "century": "XIV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 82,
-                "diameter": 0,
-                "side": 98
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_066.jpg"
-            ],
-            "render": "1942_rend.jpg",
-            "model": "1942_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_066.jpg"
+        ],
+        "render": "1941_rend.jpg",
+        "model": "1941_model.fbx"
+    },
+    {
+        "id": "CS1942",
+        "index": 57,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco da Paula",
+        "location": "Corte Nova",
+        "coordinates": [
+            12.342483914962786,
+            45.43442249295445
+        ],
+        "century": "XIV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 82,
+            "diameter": 0,
+            "side": 98
         },
-        {
-            "id": "CS1961",
-            "index": 58,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Martin",
-            "location": "Campo de la Tana",
-            "coordinates": [
-                12.342260666689103,
-                45.435985254690166
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 87,
-                "diameter": 0,
-                "side": 136
-            },
-            "preservation": "good",
-            "pictures": [
-                "file_Page_067.jpg"
-            ],
-            "render": "1961_rend.jpg",
-            "model": "1961_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_066.jpg"
+        ],
+        "render": "1942_rend.jpg",
+        "model": "1942_model.fbx"
+    },
+    {
+        "id": "CS1961",
+        "index": 58,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Martin",
+        "location": "Campo de la Tana",
+        "coordinates": [
+            12.342260666689103,
+            45.435985254690166
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 87,
+            "diameter": 0,
+            "side": 136
         },
-        {
-            "id": "CS2034",
-            "index": 59,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Martin",
-            "location": "Campo de le Gorne",
-            "coordinates": [
-                12.342911284866547,
-                45.436203676589024
-            ],
-            "century": "XIV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 80,
-                "diameter": 0,
-                "side": 110
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_067.jpg"
-            ],
-            "render": "2034_rend.jpg",
-            "model": "2034_model.fbx"
+        "preservation": "good",
+        "pictures": [
+            "file_Page_067.jpg"
+        ],
+        "render": "1961_rend.jpg",
+        "model": "1961_model.fbx"
+    },
+    {
+        "id": "CS2034",
+        "index": 59,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Martin",
+        "location": "Campo de le Gorne",
+        "coordinates": [
+            12.342911284866547,
+            45.436203676589024
+        ],
+        "century": "XIV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 80,
+            "diameter": 0,
+            "side": 110
         },
-        {
-            "id": "CS2028",
-            "index": 60,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Martin",
-            "location": "Corte Soranzo",
-            "coordinates": [
-                12.342895340132069,
-                45.4358544879181
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 72,
-                "diameter": 0,
-                "side": 85
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_067.jpg"
-            ],
-            "render": "2028_rend.jpg",
-            "model": "2028_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_067.jpg"
+        ],
+        "render": "2034_rend.jpg",
+        "model": "2034_model.fbx"
+    },
+    {
+        "id": "CS2028",
+        "index": 60,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Martin",
+        "location": "Corte Soranzo",
+        "coordinates": [
+            12.342895340132069,
+            45.4358544879181
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 72,
+            "diameter": 0,
+            "side": 85
         },
-        {
-            "id": "CS2055",
-            "index": 61,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Martin",
-            "location": "Campo dei do Pozzi",
-            "coordinates": [
-                12.344201042321087,
-                45.436128734165955
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 74,
-                "diameter": 170,
-                "side": 0
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_067.jpg"
-            ],
-            "render": "2055_rend.jpg",
-            "model": "2055_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_067.jpg"
+        ],
+        "render": "2028_rend.jpg",
+        "model": "2028_model.fbx"
+    },
+    {
+        "id": "CS2055",
+        "index": 61,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Martin",
+        "location": "Campo dei do Pozzi",
+        "coordinates": [
+            12.344201042321087,
+            45.436128734165955
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 74,
+            "diameter": 170,
+            "side": 0
         },
-        {
-            "id": "CS1508",
-            "index": 62,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco de la Vigna",
-            "location": "Campo a Fianco de la Chiesa",
-            "coordinates": [
-                12.345057187072415,
-                45.43719853746667
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 79,
-                "diameter": 0,
-                "side": 53
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_068.jpg"
-            ],
-            "render": "1508_rend.jpg",
-            "model": "1508_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_067.jpg"
+        ],
+        "render": "2055_rend.jpg",
+        "model": "2055_model.fbx"
+    },
+    {
+        "id": "CS1508",
+        "index": 62,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco de la Vigna",
+        "location": "Campo a Fianco de la Chiesa",
+        "coordinates": [
+            12.345057187072415,
+            45.43719853746667
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 79,
+            "diameter": 0,
+            "side": 53
         },
-        {
-            "id": "CS1519",
-            "index": 63,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco de la Vigna",
-            "location": "Corte de la Pietà",
-            "coordinates": [
-                12.34181511914942,
-                45.4375059506143
-            ],
-            "century": "XV-XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 87,
-                "diameter": 0,
-                "side": 97
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_068.jpg"
-            ],
-            "render": "1519_rend.jpg",
-            "model": "1519_model.fbx"
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_068.jpg"
+        ],
+        "render": "1508_rend.jpg",
+        "model": "1508_model.fbx"
+    },
+    {
+        "id": "CS1519",
+        "index": 63,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco de la Vigna",
+        "location": "Corte de la Pietà",
+        "coordinates": [
+            12.34181511914942,
+            45.4375059506143
+        ],
+        "century": "XV-XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 87,
+            "diameter": 0,
+            "side": 97
         },
-        {
-            "id": "CS1550",
-            "index": 64,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco de la Vigna",
-            "location": "Campo S. Giustina",
-            "coordinates": [
-                12.340919910322722,
-                45.437436137581294
-            ],
-            "century": "XIV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 70,
-                "diameter": 0,
-                "side": 95
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_068.jpg"
-            ],
-            "render": "1550_rend.jpg",
-            "model": "1550_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_068.jpg"
+        ],
+        "render": "1519_rend.jpg",
+        "model": "1519_model.fbx"
+    },
+    {
+        "id": "CS1550",
+        "index": 64,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco de la Vigna",
+        "location": "Campo S. Giustina",
+        "coordinates": [
+            12.340919910322722,
+            45.437436137581294
+        ],
+        "century": "XIV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 70,
+            "diameter": 0,
+            "side": 95
         },
-        {
-            "id": "CS1537",
-            "index": 65,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco de la Vigna",
-            "location": "Corte Nova",
-            "coordinates": [
-                12.34131214497703,
-                45.437105143565255
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 79,
-                "diameter": 0,
-                "side": 83
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_068.jpg"
-            ],
-            "render": "1537_rend.jpg",
-            "model": "1537_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_068.jpg"
+        ],
+        "render": "1550_rend.jpg",
+        "model": "1550_model.fbx"
+    },
+    {
+        "id": "CS1537",
+        "index": 65,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco de la Vigna",
+        "location": "Corte Nova",
+        "coordinates": [
+            12.34131214497703,
+            45.437105143565255
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 79,
+            "diameter": 0,
+            "side": 83
         },
-        {
-            "id": "CS1566",
-            "index": 66,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Francesco de la Vigna",
-            "location": "Campo S. Ternita",
-            "coordinates": [
-                12.338036981067726,
-                45.436739478134314
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 86,
-                "diameter": 190,
-                "side": 100
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_069.jpg"
-            ],
-            "render": "1566_rend.jpg",
-            "model": "1566_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_068.jpg"
+        ],
+        "render": "1537_rend.jpg",
+        "model": "1537_model.fbx"
+    },
+    {
+        "id": "CS1566",
+        "index": 66,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Francesco de la Vigna",
+        "location": "Campo S. Ternita",
+        "coordinates": [
+            12.338036981067726,
+            45.436739478134314
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 86,
+            "diameter": 190,
+            "side": 100
         },
-        {
-            "id": "CS1345",
-            "index": 67,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Campiello del la Fraterna",
-            "coordinates": [
-                12.339482950576235,
-                45.43848418602942
-            ],
-            "century": "XIV",
-            "materials": [
-                "Marmo bianco di Verona"
-            ],
-            "dimensions": {
-                "height": 80,
-                "diameter": 0,
-                "side": 104
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_070.jpg"
-            ],
-            "render": "1345_rend.jpg",
-            "model": "1345_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_069.jpg"
+        ],
+        "render": "1566_rend.jpg",
+        "model": "1566_model.fbx"
+    },
+    {
+        "id": "CS1345",
+        "index": 67,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Campiello del la Fraterna",
+        "coordinates": [
+            12.339482950576235,
+            45.43848418602942
+        ],
+        "century": "XIV",
+        "materials": [
+            "Marmo bianco di Verona"
+        ],
+        "dimensions": {
+            "height": 80,
+            "diameter": 0,
+            "side": 104
         },
-        {
-            "id": "CS1453",
-            "index": 68,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Campo Bandiera e Moro o de la Bragora",
-            "coordinates": [
-                12.339183378041389,
-                45.43838686934161
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 88,
-                "diameter": 0,
-                "side": 120
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_070.jpg"
-            ],
-            "render": "1453_rend.jpg",
-            "model": "1453_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_070.jpg"
+        ],
+        "render": "1345_rend.jpg",
+        "model": "1345_model.fbx"
+    },
+    {
+        "id": "CS1453",
+        "index": 68,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Campo Bandiera e Moro o de la Bragora",
+        "coordinates": [
+            12.339183378041389,
+            45.43838686934161
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 88,
+            "diameter": 0,
+            "side": 120
         },
-        {
-            "id": "CS1452",
-            "index": 69,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Campo Bandiera e Moro o de la Bragora",
-            "coordinates": [
-                12.33912900673236,
-                45.43875776840915
-            ],
-            "century": "XV-XVI",
-            "materials": [
-                "Pieta d'Istria"
-            ],
-            "dimensions": {
-                "height": 87,
-                "diameter": 0,
-                "side": 115
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_070.jpg"
-            ],
-            "render": "1452_rend.jpg",
-            "model": "1452_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_070.jpg"
+        ],
+        "render": "1453_rend.jpg",
+        "model": "1453_model.fbx"
+    },
+    {
+        "id": "CS1452",
+        "index": 69,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Campo Bandiera e Moro o de la Bragora",
+        "coordinates": [
+            12.33912900673236,
+            45.43875776840915
+        ],
+        "century": "XV-XVI",
+        "materials": [
+            "Pieta d'Istria"
+        ],
+        "dimensions": {
+            "height": 87,
+            "diameter": 0,
+            "side": 115
         },
-        {
-            "id": "CS1424",
-            "index": 70,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Corte Bollani",
-            "coordinates": [
-                12.338461221590968,
-                45.438349164442634
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 74,
-                "diameter": 0,
-                "side": 90
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_070.jpg"
-            ],
-            "render": "1424_rend.jpg",
-            "model": "1424_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_070.jpg"
+        ],
+        "render": "1452_rend.jpg",
+        "model": "1452_model.fbx"
+    },
+    {
+        "id": "CS1424",
+        "index": 70,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Corte Bollani",
+        "coordinates": [
+            12.338461221590968,
+            45.438349164442634
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 74,
+            "diameter": 0,
+            "side": 90
         },
-        {
-            "id": "CS1350",
-            "index": 71,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Corte Querini",
-            "coordinates": [
-                12.338319852535864,
-                45.43762892206091
-            ],
-            "century": "XIII-XIV",
-            "materials": [
-                "Marmo rosso di Verona"
-            ],
-            "dimensions": {
-                "height": 83,
-                "diameter": 0,
-                "side": 100
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_070.jpg"
-            ],
-            "render": "1350_rend.jpg",
-            "model": "1350_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_070.jpg"
+        ],
+        "render": "1424_rend.jpg",
+        "model": "1424_model.fbx"
+    },
+    {
+        "id": "CS1350",
+        "index": 71,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Corte Querini",
+        "coordinates": [
+            12.338319852535864,
+            45.43762892206091
+        ],
+        "century": "XIII-XIV",
+        "materials": [
+            "Marmo rosso di Verona"
+        ],
+        "dimensions": {
+            "height": 83,
+            "diameter": 0,
+            "side": 100
         },
-        {
-            "id": "CS1445",
-            "index": 72,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Campiello del Piovan",
-            "coordinates": [
-                12.338937769662543,
-                45.437127180643564
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 94,
-                "diameter": 0,
-                "side": 130
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_071.jpg"
-            ],
-            "render": "1445_rend.jpg",
-            "model": "1445_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_070.jpg"
+        ],
+        "render": "1350_rend.jpg",
+        "model": "1350_model.fbx"
+    },
+    {
+        "id": "CS1445",
+        "index": 72,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Campiello del Piovan",
+        "coordinates": [
+            12.338937769662543,
+            45.437127180643564
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 94,
+            "diameter": 0,
+            "side": 130
         },
-        {
-            "id": "CS1444",
-            "index": 73,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Campiello del Piovan",
-            "coordinates": [
-                12.342273595085663,
-                45.43857637796886
-            ],
-            "century": "XV-XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 89,
-                "diameter": 0,
-                "side": 100
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_071.jpg"
-            ],
-            "render": "1444_rend.jpg",
-            "model": "1444_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_071.jpg"
+        ],
+        "render": "1445_rend.jpg",
+        "model": "1445_model.fbx"
+    },
+    {
+        "id": "CS1444",
+        "index": 73,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Campiello del Piovan",
+        "coordinates": [
+            12.342273595085663,
+            45.43857637796886
+        ],
+        "century": "XV-XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 89,
+            "diameter": 0,
+            "side": 100
         },
-        {
-            "id": "CS1450",
-            "index": 74,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Campiello del Piovan",
-            "coordinates": [
-                12.34210982216585,
-                45.43879875002975
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 80,
-                "diameter": 0,
-                "side": 82
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_071.jpg"
-            ],
-            "render": "1450_rend.jpg",
-            "model": "1450_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_071.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1450",
+        "index": 74,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Campiello del Piovan",
+        "coordinates": [
+            12.34210982216585,
+            45.43879875002975
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 80,
+            "diameter": 0,
+            "side": 82
         },
-        {
-            "id": "CS893",
-            "index": 75,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Giovanni in Bragora",
-            "location": "Campo S. Lorenzo",
-            "coordinates": [
-                12.343004823549006,
-                45.43853593152977
-            ],
-            "century": "XVIII",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 93,
-                "diameter": 186,
-                "side": 65
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_071.jpg"
-            ],
-            "render": "893_rend.jpg",
-            "model": "893_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_071.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS893",
+        "index": 75,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Giovanni in Bragora",
+        "location": "Campo S. Lorenzo",
+        "coordinates": [
+            12.343004823549006,
+            45.43853593152977
+        ],
+        "century": "XVIII",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 93,
+            "diameter": 186,
+            "side": 65
         },
-        {
-            "id": "CS781",
-            "index": 76,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Campo S. Filippo e Giacomo",
-            "coordinates": [
-                12.343358670243981,
-                45.43839385684875
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 84,
-                "diameter": 183,
-                "side": 0
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_071.jpg"
-            ],
-            "render": "781_rend.jpg",
-            "model": "781_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_071.jpg"
+        ],
+        "render": "",
+        "model": "x"
+    },
+    {
+        "id": "CS781",
+        "index": 76,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Campo S. Filippo e Giacomo",
+        "coordinates": [
+            12.343358670243981,
+            45.43839385684875
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 84,
+            "diameter": 183,
+            "side": 0
         },
-        {
-            "id": "CS782",
-            "index": 77,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Campo S. Zane Novo",
-            "coordinates": [
-                12.345245054646321,
-                45.43843749401363
-            ],
-            "century": "XVI",
-            "materials": [
-                "Marmo rosa di Verona"
-            ],
-            "dimensions": {
-                "height": 89,
-                "diameter": 0,
-                "side": 63
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_072.jpg"
-            ],
-            "render": "782_rend.jpg",
-            "model": "782_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_071.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS782",
+        "index": 77,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Campo S. Zane Novo",
+        "coordinates": [
+            12.345245054646321,
+            45.43843749401363
+        ],
+        "century": "XVI",
+        "materials": [
+            "Marmo rosa di Verona"
+        ],
+        "dimensions": {
+            "height": 89,
+            "diameter": 0,
+            "side": 63
         },
-        {
-            "id": "CS765",
-            "index": 78,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Corte Michiel",
-            "coordinates": [
-                12.343303171995979,
-                45.43883389312241
-            ],
-            "century": "XIV",
-            "materials": [
-                "Marmo rosa di Verona"
-            ],
-            "dimensions": {
-                "height": 84,
-                "diameter": 0,
-                "side": 100
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_072.jpg"
-            ],
-            "render": "765_rend.jpg",
-            "model": "765_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_072.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS765",
+        "index": 78,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Corte Michiel",
+        "coordinates": [
+            12.343303171995979,
+            45.43883389312241
+        ],
+        "century": "XIV",
+        "materials": [
+            "Marmo rosa di Verona"
+        ],
+        "dimensions": {
+            "height": 84,
+            "diameter": 0,
+            "side": 100
         },
-        {
-            "id": "CS788",
-            "index": 79,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Campiello del Vin",
-            "coordinates": [
-                12.341631724081767,
-                45.43910336004716
-            ],
-            "century": "XIV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 93,
-                "diameter": 120,
-                "side": 0
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_072.jpg"
-            ],
-            "render": "788_rend.jpg",
-            "model": "788_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_072.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS788",
+        "index": 79,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Campiello del Vin",
+        "coordinates": [
+            12.341631724081767,
+            45.43910336004716
+        ],
+        "century": "XIV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 93,
+            "diameter": 120,
+            "side": 0
         },
-        {
-            "id": "CS786",
-            "index": 80,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Campo S. Provolo",
-            "coordinates": [
-                12.341522235594535,
-                45.43882720490292
-            ],
-            "century": "XIV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 84,
-                "diameter": 0,
-                "side": 100
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_072.jpg"
-            ],
-            "render": "786_rend.jpg",
-            "model": "786_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_072.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS786",
+        "index": 80,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Campo S. Provolo",
+        "coordinates": [
+            12.341522235594535,
+            45.43882720490292
+        ],
+        "century": "XIV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 84,
+            "diameter": 0,
+            "side": 100
         },
-        {
-            "id": "CS787",
-            "index": 81,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Campo S. Zacaria",
-            "coordinates": [
-                12.345088686095515,
-                45.43584801833968
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 81,
-                "diameter": 0,
-                "side": 128
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_072.jpg"
-            ],
-            "render": "787_rend.jpg",
-            "model": "787_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_072.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS787",
+        "index": 81,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Campo S. Zacaria",
+        "coordinates": [
+            12.345088686095515,
+            45.43584801833968
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 81,
+            "diameter": 0,
+            "side": 128
         },
-        {
-            "id": "CS679",
-            "index": 82,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Campo S. Zacaria",
-            "coordinates": [
-                12.34466384956212,
-                45.43534858776349
-            ],
-            "century": "XIII-XIV",
-            "materials": [
-                "Marmo bianco di Verona"
-            ],
-            "dimensions": {
-                "height": 70,
-                "diameter": 0,
-                "side": 36
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_073.jpg"
-            ],
-            "render": "679_rend.jpg",
-            "model": "679_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_072.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS679",
+        "index": 82,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Campo S. Zacaria",
+        "coordinates": [
+            12.34466384956212,
+            45.43534858776349
+        ],
+        "century": "XIII-XIV",
+        "materials": [
+            "Marmo bianco di Verona"
+        ],
+        "dimensions": {
+            "height": 70,
+            "diameter": 0,
+            "side": 36
         },
-        {
-            "id": "CS851",
-            "index": 83,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Corte Rota",
-            "coordinates": [
-                12.34522198773906,
-                45.43493379649904
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 91,
-                "diameter": 0,
-                "side": 94
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_073.jpg"
-            ],
-            "render": "851_rend.jpg",
-            "model": "851_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_073.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS851",
+        "index": 83,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Corte Rota",
+        "coordinates": [
+            12.34522198773906,
+            45.43493379649904
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 91,
+            "diameter": 0,
+            "side": 94
         },
-        {
-            "id": "CS808",
-            "index": 84,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Corte Correra",
-            "coordinates": [
-                12.347088306134502,
-                45.434044175238554
-            ],
-            "century": "IX-X",
-            "materials": [
-                "Pietra d'Aurisina"
-            ],
-            "dimensions": {
-                "height": 73,
-                "diameter": 0,
-                "side": 87
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_073.jpg"
-            ],
-            "render": "808_rend.jpg",
-            "model": "808_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_073.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS808",
+        "index": 84,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Corte Correra",
+        "coordinates": [
+            12.347088306134502,
+            45.434044175238554
+        ],
+        "century": "IX-X",
+        "materials": [
+            "Pietra d'Aurisina"
+        ],
+        "dimensions": {
+            "height": 73,
+            "diameter": 0,
+            "side": 87
         },
-        {
-            "id": "CS847",
-            "index": 85,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Campiello del Tagliapiera",
-            "coordinates": [
-                12.346842546282542,
-                45.43409122434727
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 73,
-                "diameter": 0,
-                "side": 79
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_074.jpg"
-            ],
-            "render": "847_rend.jpg",
-            "model": "847_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_073.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS847",
+        "index": 85,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Campiello del Tagliapiera",
+        "coordinates": [
+            12.346842546282542,
+            45.43409122434727
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 73,
+            "diameter": 0,
+            "side": 79
         },
-        {
-            "id": "CS877",
-            "index": 86,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Corte dei Preti",
-            "coordinates": [
-                12.347024357839093,
-                45.43419250986687
-            ],
-            "century": "XIV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 80,
-                "diameter": 0,
-                "side": 104
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_074.jpg"
-            ],
-            "render": "877_rend.jpg",
-            "model": "877_model.fbx"
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_074.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS877",
+        "index": 86,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Corte dei Preti",
+        "coordinates": [
+            12.347024357839093,
+            45.43419250986687
+        ],
+        "century": "XIV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 80,
+            "diameter": 0,
+            "side": 104
         },
-        {
-            "id": "CS784",
-            "index": 87,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Borgoloco S. Lorenzo",
-            "coordinates": [
-                12.346700758206229,
-                45.434536629095994
-            ],
-            "century": "XIII",
-            "materials": [
-                "Marmo rosa di Verona"
-            ],
-            "dimensions": {
-                "height": 95,
-                "diameter": 0,
-                "side": 115
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_074.jpg"
-            ],
-            "render": "784_rend.jpg",
-            "model": "784_model.fbx"
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_074.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS784",
+        "index": 87,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Borgoloco S. Lorenzo",
+        "coordinates": [
+            12.346700758206229,
+            45.434536629095994
+        ],
+        "century": "XIII",
+        "materials": [
+            "Marmo rosa di Verona"
+        ],
+        "dimensions": {
+            "height": 95,
+            "diameter": 0,
+            "side": 115
         },
-        {
-            "id": "CS785",
-            "index": 88,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zacaria",
-            "location": "Borgoloco S. Lorenzo",
-            "coordinates": [
-                12.346702470492364,
-                45.43473980177548
-            ],
-            "century": "XIII-XIV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 92,
-                "diameter": 0,
-                "side": 109
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_074.jpg"
-            ],
-            "render": "785_rend.jpg",
-            "model": "785_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_074.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS785",
+        "index": 88,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zacaria",
+        "location": "Borgoloco S. Lorenzo",
+        "coordinates": [
+            12.346702470492364,
+            45.43473980177548
+        ],
+        "century": "XIII-XIV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 92,
+            "diameter": 0,
+            "side": 109
         },
-        {
-            "id": "CS940",
-            "index": 89,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Corte dei Orbi",
-            "coordinates": [
-                12.347443736436297,
-                45.43789727922349
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 72,
-                "diameter": 0,
-                "side": 96
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_075.jpg"
-            ],
-            "render": "940_rend.jpg",
-            "model": "940_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_074.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS940",
+        "index": 89,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Corte dei Orbi",
+        "coordinates": [
+            12.347443736436297,
+            45.43789727922349
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 72,
+            "diameter": 0,
+            "side": 96
         },
-        {
-            "id": "CS946",
-            "index": 90,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Campo S. Maria Formosa",
-            "coordinates": [
-                12.34673266090887,
-                45.43799572484698
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 84,
-                "diameter": 178,
-                "side": 0
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_075.jpg"
-            ],
-            "render": "946_rend.jpg",
-            "model": "946_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_075.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS946",
+        "index": 90,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Campo S. Maria Formosa",
+        "coordinates": [
+            12.34673266090887,
+            45.43799572484698
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 84,
+            "diameter": 178,
+            "side": 0
         },
-        {
-            "id": "CS945",
-            "index": 91,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Campo S. Maria Formosa",
-            "coordinates": [
-                12.34667387549319,
-                45.43701031766461
-            ],
-            "century": "XVIII",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 88,
-                "diameter": 265,
-                "side": 0
-            },
-            "preservation": "good",
-            "pictures": [
-                "file_Page_076.jpg"
-            ],
-            "render": "945_rend.jpg",
-            "model": "945_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_075.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS945",
+        "index": 91,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Campo S. Maria Formosa",
+        "coordinates": [
+            12.34667387549319,
+            45.43701031766461
+        ],
+        "century": "XVIII",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 88,
+            "diameter": 265,
+            "side": 0
         },
-        {
-            "id": "CS1089",
-            "index": 92,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Corte Perina",
-            "coordinates": [
-                12.346078139548757,
-                45.437991848167606
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 86,
-                "diameter": 0,
-                "side": 90
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_077.jpg"
-            ],
-            "render": "1089_rend.jpg",
-            "model": "1089_model.fbx"
+        "preservation": "good",
+        "pictures": [
+            "file_Page_076.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1089",
+        "index": 92,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Corte Perina",
+        "coordinates": [
+            12.346078139548757,
+            45.437991848167606
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 86,
+            "diameter": 0,
+            "side": 90
         },
-        {
-            "id": "CS1001",
-            "index": 93,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Corte Rubbi",
-            "coordinates": [
-                12.348733668753413,
-                45.4372985689057
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 88,
-                "diameter": 0,
-                "side": 93
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_077.jpg"
-            ],
-            "render": "1001_rend.jpg",
-            "model": "1001_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_077.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1001",
+        "index": 93,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Corte Rubbi",
+        "coordinates": [
+            12.348733668753413,
+            45.4372985689057
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 88,
+            "diameter": 0,
+            "side": 93
         },
-        {
-            "id": "CS1088",
-            "index": 94,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "ampo S. Lio",
-            "coordinates": [
-                12.357718257463768,
-                45.43307950414299
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 84,
-                "diameter": 139,
-                "side": 0
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_077.jpg"
-            ],
-            "render": "1088_rend.jpg",
-            "model": "1088_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_077.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1088",
+        "index": 94,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "ampo S. Lio",
+        "coordinates": [
+            12.357718257463768,
+            45.43307950414299
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 84,
+            "diameter": 139,
+            "side": 0
         },
-        {
-            "id": "CS1083",
-            "index": 95,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Campo S. Marina",
-            "coordinates": [
-                12.3571872893851,
-                45.43378380843932
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 83,
-                "diameter": 0,
-                "side": 96
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_077.jpg"
-            ],
-            "render": "1083_rend.jpg",
-            "model": "1083_model.fbx"
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_077.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1083",
+        "index": 95,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Campo S. Marina",
+        "coordinates": [
+            12.3571872893851,
+            45.43378380843932
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 83,
+            "diameter": 0,
+            "side": 96
         },
-        {
-            "id": "CS1084",
-            "index": 96,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Campo S. Marina",
-            "coordinates": [
-                12.356142472044699,
-                45.43282463653378
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 95,
-                "diameter": 116,
-                "side": 0
-            },
-            "preservation": "good",
-            "pictures": [
-                "file_Page_077.jpg"
-            ],
-            "render": "1084_rend.jpg",
-            "model": "1084_model.fbx"
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_077.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1084",
+        "index": 96,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Campo S. Marina",
+        "coordinates": [
+            12.356142472044699,
+            45.43282463653378
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 95,
+            "diameter": 116,
+            "side": 0
         },
-        {
-            "id": "CS1086",
-            "index": 97,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Corte Spechiera",
-            "coordinates": [
-                12.356866627848245,
-                45.43016131240121
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 93,
-                "diameter": 0,
-                "side": 97
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_078.jpg"
-            ],
-            "render": "1086_rend.jpg",
-            "model": "1086_model.fbx"
+        "preservation": "good",
+        "pictures": [
+            "file_Page_077.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1086",
+        "index": 97,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Corte Spechiera",
+        "coordinates": [
+            12.356866627848245,
+            45.43016131240121
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 93,
+            "diameter": 0,
+            "side": 97
         },
-        {
-            "id": "CS1085",
-            "index": 98,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Maria Formosa",
-            "location": "Campiello S. Marina",
-            "coordinates": [
-                12.355604919890107,
-                45.431508092463964
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 80,
-                "diameter": 96,
-                "side": 0
-            },
-            "preservation": "very bad",
-            "pictures": [
-                "file_Page_078.jpg"
-            ],
-            "render": "1085_rend.jpg",
-            "model": "1085_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_078.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1085",
+        "index": 98,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Maria Formosa",
+        "location": "Campiello S. Marina",
+        "coordinates": [
+            12.355604919890107,
+            45.431508092463964
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 80,
+            "diameter": 96,
+            "side": 0
         },
-        {
-            "id": "CS1171",
-            "index": 99,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zanipolo",
-            "location": "Corte Botera",
-            "coordinates": [
-                12.353522204174356,
-                45.431369982120444
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 90,
-                "diameter": 0,
-                "side": 100
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_078.jpg"
-            ],
-            "render": "1171_rend.jpg",
-            "model": "1171_model.fbx"
+        "preservation": "very bad",
+        "pictures": [
+            "file_Page_078.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1171",
+        "index": 99,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zanipolo",
+        "location": "Corte Botera",
+        "coordinates": [
+            12.353522204174356,
+            45.431369982120444
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 90,
+            "diameter": 0,
+            "side": 100
         },
-        {
-            "id": "CS1172",
-            "index": 100,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zanipolo",
-            "location": "Corte Veriera",
-            "coordinates": [
-                12.350954079637653,
-                45.43234317045208
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 82,
-                "diameter": 0,
-                "side": 105
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_079.jpg"
-            ],
-            "render": "1172_rend.jpg",
-            "model": "1172_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_078.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1172",
+        "index": 100,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zanipolo",
+        "location": "Corte Veriera",
+        "coordinates": [
+            12.350954079637653,
+            45.43234317045208
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 82,
+            "diameter": 0,
+            "side": 105
         },
-        {
-            "id": "CS1199",
-            "index": 101,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zanipolo",
-            "location": "Corte del Peruchier",
-            "coordinates": [
-                12.352947579603946,
-                45.432840407352614
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 86,
-                "diameter": 0,
-                "side": 99
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_079.jpg"
-            ],
-            "render": "1199_rend.jpg",
-            "model": "1199_model.fbx"
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_079.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1199",
+        "index": 101,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zanipolo",
+        "location": "Corte del Peruchier",
+        "coordinates": [
+            12.352947579603946,
+            45.432840407352614
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 86,
+            "diameter": 0,
+            "side": 99
         },
-        {
-            "id": "CS1202",
-            "index": 102,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zanipolo",
-            "location": "Ramo Primo Brusà",
-            "coordinates": [
-                12.353031441554066,
-                45.43256947352313
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 65,
-                "diameter": 0,
-                "side": 80
-            },
-            "preservation": "poor",
-            "pictures": [
-                "file_Page_079.jpg"
-            ],
-            "render": "1202_rend.jpg",
-            "model": "1202_model.fbx"
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_079.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1202",
+        "index": 102,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zanipolo",
+        "location": "Ramo Primo Brusà",
+        "coordinates": [
+            12.353031441554066,
+            45.43256947352313
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 65,
+            "diameter": 0,
+            "side": 80
         },
-        {
-            "id": "CS1245",
-            "index": 103,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zanipolo",
-            "location": "Campo S. Giustina de Barbaria",
-            "coordinates": [
-                12.350450521725286,
-                45.43335897902738
-            ],
-            "century": "XVIII",
-            "materials": [
-                "Marmo rosa di Verona"
-            ],
-            "dimensions": {
-                "height": 77,
-                "diameter": 125,
-                "side": 0
-            },
-            "preservation": "good",
-            "pictures": [
-                "file_Page_079.jpg"
-            ],
-            "render": "1245_rend.jpg",
-            "model": "1245_model.fbx"
+        "preservation": "poor",
+        "pictures": [
+            "file_Page_079.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1245",
+        "index": 103,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zanipolo",
+        "location": "Campo S. Giustina de Barbaria",
+        "coordinates": [
+            12.350450521725286,
+            45.43335897902738
+        ],
+        "century": "XVIII",
+        "materials": [
+            "Marmo rosa di Verona"
+        ],
+        "dimensions": {
+            "height": 77,
+            "diameter": 125,
+            "side": 0
         },
-        {
-            "id": "CS1263",
-            "index": 104,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zanipolo",
-            "location": "Corte Teraza",
-            "coordinates": [
-                12.348115981202021,
-                45.43560941797132
-            ],
-            "century": "XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 86,
-                "diameter": 108,
-                "side": 0
-            },
-            "preservation": "fair",
-            "pictures": [
-                "file_Page_080.jpg"
-            ],
-            "render": "1263_rend.jpg",
-            "model": "1263_model.fbx"
+        "preservation": "good",
+        "pictures": [
+            "file_Page_079.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1263",
+        "index": 104,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zanipolo",
+        "location": "Corte Teraza",
+        "coordinates": [
+            12.348115981202021,
+            45.43560941797132
+        ],
+        "century": "XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 86,
+            "diameter": 108,
+            "side": 0
         },
-        {
-            "id": "CS1276",
-            "index": 105,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zanipolo",
-            "location": "Campo S. Zanipolo o SS. Giovanni e Paolo",
-            "coordinates": [
-                12.349138197015689,
-                45.435568555253795
-            ],
-            "century": "XVI",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 95,
-                "diameter": 151,
-                "side": 0
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_081.jpg"
-            ],
-            "render": "1276_rend.jpg",
-            "model": "1276_model.fbx"
+        "preservation": "fair",
+        "pictures": [
+            "file_Page_080.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1276",
+        "index": 105,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zanipolo",
+        "location": "Campo S. Zanipolo o SS. Giovanni e Paolo",
+        "coordinates": [
+            12.349138197015689,
+            45.435568555253795
+        ],
+        "century": "XVI",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 95,
+            "diameter": 151,
+            "side": 0
         },
-        {
-            "id": "CS1297",
-            "index": 106,
-            "sestriere": "Castelo",
-            "parrocchia": "S. Zanipolo",
-            "location": "Corte Bressana",
-            "coordinates": [
-                12.348572288627437,
-                45.43618400222082
-            ],
-            "century": "XIV-XV",
-            "materials": [
-                "Pietra d'Istria"
-            ],
-            "dimensions": {
-                "height": 76,
-                "diameter": 0,
-                "side": 95
-            },
-            "preservation": "bad",
-            "pictures": [
-                "file_Page_081.jpg"
-            ],
-            "render": "1297_rend.jpg",
-            "model": "1297_model.fbx"
-        }
-    ]
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_081.jpg"
+        ],
+        "render": "",
+        "model": ""
+    },
+    {
+        "id": "CS1297",
+        "index": 106,
+        "sestriere": "Castelo",
+        "parrocchia": "S. Zanipolo",
+        "location": "Corte Bressana",
+        "coordinates": [
+            12.348572288627437,
+            45.43618400222082
+        ],
+        "century": "XIV-XV",
+        "materials": [
+            "Pietra d'Istria"
+        ],
+        "dimensions": {
+            "height": 76,
+            "diameter": 0,
+            "side": 95
+        },
+        "preservation": "bad",
+        "pictures": [
+            "file_Page_081.jpg"
+        ],
+        "render": "",
+        "model": ""
+    }
 ]
