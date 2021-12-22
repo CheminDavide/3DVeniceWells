@@ -1,0 +1,122 @@
+[
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 110,
+    "radius-top": 110,
+    "z-base": 0,
+    "z-top": 8
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "list_rounded",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 109,
+    "radius-top": 109,
+    "z-base": 8,
+    "z-top": 10
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 82,
+    "radius-top": 82,
+    "z-base": 10,
+    "z-top": 18
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "list_rounded",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 81,
+    "radius-top": 81,
+    "z-base": 18,
+    "z-top": 20
+  },
+  {
+    "moulding-scale": 0.5,
+    "moulding-type": "beak_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 57,
+    "radius-top": 57,
+    "z-base": 20,
+    "z-top": 24
+  },
+  {
+    "moulding-scale": 0.5,
+    "moulding-type": "beak_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 55,
+    "radius-top": 55,
+    "z-base": 24,
+    "z-top": 28
+  },
+  {
+    "moulding-scale": 0.3,
+    "moulding-type": "gola_rev",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 54,
+    "radius-top": 54,
+    "z-base": 28,
+    "z-top": 52
+  },
+  {
+    "moulding-scale": 0.8,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 61,
+    "radius-top": 61,
+    "z-base": 52,
+    "z-top": 54
+  },
+  {
+    "moulding-scale": 0.3,
+    "moulding-type": "gola_rev_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 54,
+    "radius-top": 54,
+    "z-base": 54,
+    "z-top": 76
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "ovolo",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 54,
+    "radius-top": 54,
+    "z-base": 76,
+    "z-top": 81
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 60,
+    "radius-top": 60,
+    "z-base": 81,
+    "z-top": 82
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "ovolo_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 56,
+    "radius-top": 56,
+    "z-base": 82,
+    "z-top": 88
+  }
+]

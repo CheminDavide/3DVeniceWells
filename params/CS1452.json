@@ -10,14 +10,14 @@
         "z-top": 13
     },
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.2,
         "moulding-type": "ovolo",
         "polygonal-base": 150,
         "polygonal-top": 150,
-        "radius-base": 40,
-        "radius-top": 40,
+        "radius-base": 34,
+        "radius-top": 34,
         "z-base": 13,
-        "z-top": 66
+        "z-top": 80
     },
     {
         "moulding-scale": 1,

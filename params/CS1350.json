@@ -1,11 +1,11 @@
 [
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.5,
         "moulding-type": "list_rounded",
         "polygonal-base": 150,
         "polygonal-top": 150,
-        "radius-base": 47,
-        "radius-top": 47,
+        "radius-base": 46,
+        "radius-top": 46,
         "z-base": 0,
         "z-top": 7
     },
@@ -15,17 +15,17 @@
         "polygonal-base": 150,
         "polygonal-top": 150,
         "radius-base": 42,
-        "radius-top": 42,
+        "radius-top": 45,
         "z-base": 7,
-        "z-top": 38
+        "z-top": 80
     },
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.5,
         "moulding-type": "list_rounded",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 52,
-        "radius-top": 52,
+        "radius-base": 50,
+        "radius-top": 50,
         "z-base": 38,
         "z-top": 83
     }

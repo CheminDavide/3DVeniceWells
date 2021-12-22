@@ -1,0 +1,92 @@
+[
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 101,
+    "radius-top": 101,
+    "z-base": 0,
+    "z-top": 10
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "list_rounded",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 100,
+    "radius-top": 100,
+    "z-base": 10,
+    "z-top": 13
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 72,
+    "radius-top": 72,
+    "z-base": 13,
+    "z-top": 17
+  },
+  {
+    "moulding-scale": 0.7,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 71,
+    "radius-top": 71,
+    "z-base": 17,
+    "z-top": 21
+  },
+  {
+    "moulding-scale": 0.5,
+    "moulding-type": "toro",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 69,
+    "radius-top": 69,
+    "z-base": 21,
+    "z-top": 24
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 8,
+    "polygonal-top": 8,
+    "radius-base": 67,
+    "radius-top": 67,
+    "z-base": 24,
+    "z-top": 83
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "gola_rev",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 67,
+    "radius-top": 67,
+    "z-base": 83,
+    "z-top": 87
+  },
+  {
+    "moulding-scale": 0.5,
+    "moulding-type": "cavetto",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 71,
+    "radius-top": 71,
+    "z-base": 87,
+    "z-top": 90
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "ovolo_f",
+    "polygonal-base": 150,
+    "polygonal-top": 150,
+    "radius-base": 71,
+    "radius-top": 71,
+    "z-base": 90,
+    "z-top": 93
+  }
+]

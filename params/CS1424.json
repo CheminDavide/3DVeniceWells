@@ -11,22 +11,22 @@
     },
     {
         "moulding-scale": 1,
-        "moulding-type": "ovolo",
+        "moulding-type": "listello",
         "polygonal-base": 150,
         "polygonal-top": 150,
         "radius-base": 40,
-        "radius-top": 40,
+        "radius-top": 45,
         "z-base": 13,
-        "z-top": 66
+        "z-top": 85
     },
     {
-        "moulding-scale": 1,
+        "moulding-scale": 0.5,
         "moulding-type": "list_rounded",
         "polygonal-base": 4,
         "polygonal-top": 4,
-        "radius-base": 55,
-        "radius-top": 55,
-        "z-base": 66,
+        "radius-base": 56,
+        "radius-top": 56,
+        "z-base": 56,
         "z-top": 87
     }
 ]

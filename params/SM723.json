@@ -1,0 +1,102 @@
+[
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 123,
+    "radius-top": 123,
+    "z-base": 0,
+    "z-top": 12
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 100,
+    "radius-top": 100,
+    "z-base": 12,
+    "z-top": 24
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 74,
+    "radius-top": 74,
+    "z-base": 24,
+    "z-top": 36
+  },
+  {
+    "moulding-scale": 0.6,
+    "moulding-type": "toro",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 52,
+    "radius-top": 52,
+    "z-base": 36,
+    "z-top": 40
+  },
+  {
+    "moulding-scale": 0.5,
+    "moulding-type": "ovolo_f",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 50,
+    "radius-top": 50,
+    "z-base": 40,
+    "z-top": 44
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 50,
+    "radius-top": 50,
+    "z-base": 44,
+    "z-top": 45
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 49,
+    "radius-top": 49,
+    "z-base": 45,
+    "z-top": 79
+  },
+  {
+    "moulding-scale": 1,
+    "moulding-type": "listello",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 50,
+    "radius-top": 50,
+    "z-base": 79,
+    "z-top": 80
+  },
+  {
+    "moulding-scale": 0.8,
+    "moulding-type": "gola_rev",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 51,
+    "radius-top": 51,
+    "z-base": 80,
+    "z-top": 84
+  },
+  {
+    "moulding-scale": 0.8,
+    "moulding-type": "toro",
+    "polygonal-base": 6,
+    "polygonal-top": 6,
+    "radius-base": 54,
+    "radius-top": 54,
+    "z-base": 84,
+    "z-top": 87
+  }
+]
